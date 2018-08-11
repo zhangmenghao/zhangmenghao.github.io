@@ -16,7 +16,7 @@ layout: default
 In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
 DoS attack defense framework for SDN infrastructure.
-In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, China, November 20-24, 2017
+In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
 In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**IEEE TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
