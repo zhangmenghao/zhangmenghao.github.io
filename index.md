@@ -40,6 +40,7 @@ In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 20
 * National Endeavor Fellowship in Tsinghua University, 2014
 * 3rd prize, Tsinghua University Challenge Cup, 2015
 * The friends of Huang Yicong and his wife - Tsinghua University Scholarships, 2015
+* Excellence in Technological Innovation - Tsinghua University Scholarships, 2015
 * Excellent Graduate, Dept. of Computer Science & Technology, Tsinghua, 2016
 * ACM SIGCOMM Travel Grant, 2017
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
