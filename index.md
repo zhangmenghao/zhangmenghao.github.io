@@ -26,7 +26,7 @@ In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, C
 In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**IEEE TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
 4. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
 [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
-In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 33/145=22.7%*)
+In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22%*)
 5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
 In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
