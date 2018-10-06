@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Menghao Zhang"
-description: "Personal Homepages"
+description: "Ph.D. Student, Dept. of Computer Science & Technology, Tsinghua University, 100084, Beijing, China"
 category: Tech
 ---
 
