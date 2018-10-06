@@ -46,3 +46,11 @@ In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 20
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
 * Shanghai FiXun Digital Communication Technology Co., Ltd – Tsinghua University Scholarships, 2018
 
+## Useful Links
+
+* [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
+* [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
+* [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world)
+* [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf)
+* [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
+
