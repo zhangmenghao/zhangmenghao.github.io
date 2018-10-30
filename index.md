@@ -49,9 +49,10 @@ In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 20
 ## Useful Links
 
 * [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
-* [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
-* [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world)
-* [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf)
+* [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
+* [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
+* [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
-* [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
+* [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
+
 
