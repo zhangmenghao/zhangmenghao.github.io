@@ -9,13 +9,14 @@ category: Tech
 
 * Aug, 2012-Jul, 2016  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
 * Sep, 2016-Present    **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University, under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/). I am fortunate to work with partners from my lab (Jiasong Bai, Guanyu Li, Yi Qiao and etc.) and collaborators from Texas A&M University ([Prof. Gu](http://faculty.cs.tamu.edu/guofei/), [Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Prof. Hu](https://people.cs.clemson.edu/~hongxih/))
-* **Research interest**: Software Defined Networking (SDN), Network Function Virtualization (NFV), and Programmable data plane. Most of my projects are motivated by network security and machine learning applications.
+* **Research interest**: Software Defined Networking (SDN), Network Function Virtualization (NFV), and Programmable data plane. Most of my projects are trying to make distributed system more security and reliable.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
 
 
 ## Publications
 
+6. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway. In IEEE Journal on Selected Areas in Communications, Vol.37, No.3, 2019 (*CCF-A*)
 5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
 In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
