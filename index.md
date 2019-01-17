@@ -16,7 +16,9 @@ category: Tech
 
 ## Publications
 
-6. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway. In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
+6. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
+Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway. 
+In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
 5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
 In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
@@ -25,7 +27,7 @@ In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 20
 In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22%*)
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
-In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**IEEE TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
+In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
 DoS attack defense framework for SDN infrastructure.
 In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
