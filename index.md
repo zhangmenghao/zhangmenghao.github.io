@@ -17,7 +17,7 @@ category: Tech
 ## Publications
 
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
-Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway. 
+[Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
 6. Jiasong Bai, __Menghao Zhang__, Jun Bi. 
 [Survey of Attacks and Countermeasures for SDN](./papers/zte2018survey.pdf).
