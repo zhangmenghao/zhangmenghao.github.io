@@ -19,29 +19,29 @@ category: Tech
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
-[[code](https://github.com/zhangmenghao/dpdk-stable-17.08.1/tree/master/gateway)]
+<!--[[code](https://github.com/zhangmenghao/dpdk-stable-17.08.1/tree/master/gateway)]-->
 6. Jiasong Bai, __Menghao Zhang__, Jun Bi. 
 [Survey of Attacks and Countermeasures for SDN](./papers/zte2018survey.pdf).
 In ZTE Communications, Vol. 16, No. 4, 2018
 5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
 In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
-[[poster](./papers/sigcomm2018-poster-filtering-poster.pdf)][[code](https://github.com/zhangmenghao/Anti-spoof/tree/master/hash_version)]
+<!--[[poster](./papers/sigcomm2018-poster-filtering-poster.pdf)][[code](https://github.com/zhangmenghao/Anti-spoof/tree/master/hash_version)]-->
 4. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
 [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
 In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22%*)
-[[slide](./papers/raid2018-sdns-attacks-slide.pdf)]
+<!--[[slide](./papers/raid2018-sdns-attacks-slide.pdf)]-->
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
 In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
-[[slide](./papers/trustcom2018-floodshield-securing-slide.pdf)][[code](https://github.com/zhangmenghao/FloodShield)]
+<!--[[slide](./papers/trustcom2018-floodshield-securing-slide.pdf)][[code](https://github.com/zhangmenghao/FloodShield)]-->
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
 DoS attack defense framework for SDN infrastructure.
 In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
 1. __Menghao Zhang__, Jun Bi, Jiasong Bai, Zhao Dong, Yongbin Li, Zhaogeng Li.
 [FTGuard: A Priority-Aware Strategy Against the Flow Table Overflow Attack in SDN](./papers/sigcomm2017-poster-ftguard.pdf).
 In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
-[[poster](./papers/sigcomm2017-poster-ftguard-poster.pdf)][[code](https://github.com/zhangmenghao/FTGuard)]
+<!--[[poster](./papers/sigcomm2017-poster-ftguard-poster.pdf)][[code](https://github.com/zhangmenghao/FTGuard)]-->
 
 
 ## Selected Honors and Awards
