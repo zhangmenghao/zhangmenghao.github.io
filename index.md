@@ -7,8 +7,9 @@ category: Tech
 
 ## Biography
 
-* Aug, 2012-Jul, 2016  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
-* Sep, 2016-Present    **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University, under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/). I am fortunate to work with partners from my lab (Zhaogeng Li, Kai Gao, Jiasong Bai, Guanyu Li, Yi Qiao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Prof. Hongxin Hu](https://people.cs.clemson.edu/~hongxih/))
+* Aug., 2012-Jul., 2016  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
+* Sep., 2016-Present    **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University, under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/). I am fortunate to work with partners from my lab (Zhaogeng Li, Kai Gao, Jiasong Bai, Guanyu Li, Yi Qiao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Prof. Hongxin Hu](https://people.cs.clemson.edu/~hongxih/)). 
+From Feb., 2019 to Jul., 2019, I spent 5 months working as a visiting scholar in the Dept. of Computer Science & Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
 * **Research interest**: Software Defined Networking (SDN), Network Function Virtualization (NFV), and Programmable data plane. Most of my projects are trying to make distributed system more security and reliable.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
@@ -61,5 +62,6 @@ In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–2
 * [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
+* [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By. Dr. Konrad Rieck)
 
 
