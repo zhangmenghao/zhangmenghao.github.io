@@ -62,6 +62,6 @@ In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–2
 * [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
-* [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By. Dr. Konrad Rieck)
+* [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By Dr. Konrad Rieck)
 
 
