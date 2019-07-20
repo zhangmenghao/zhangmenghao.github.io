@@ -7,9 +7,9 @@ category: Tech
 
 ## Biography
 
-* Aug., 2012-Jul., 2016  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
-* Sep., 2016-Present    **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University, under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/). I am fortunate to work with partners from my lab (Zhaogeng Li, Kai Gao, Jiasong Bai, Guanyu Li, Yi Qiao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Prof. Hongxin Hu](https://people.cs.clemson.edu/~hongxih/)). 
-From Feb., 2019 to Jul., 2019, I spent 5 months working as a visiting scholar in the Dept. of Computer Science & Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
+* *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
+* *Sep., 2016-Present*  **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University, under the supervision of [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/) and [Prof. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html). I am fortunate to work with partners from my lab (Zhaogeng Li, Kai Gao, Jiasong Bai, Guanyu Li, Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Prof. Hongxin Hu](https://people.cs.clemson.edu/~hongxih/)). 
+* *Feb., 2019-Jul., 2019*  **visiting scholar**, Dept. of Computer Science & Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
 * **Research interest**: Software Defined Networking (SDN), Network Function Virtualization (NFV), and Programmable data plane. Most of my projects are trying to make distributed system more security and reliable.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
@@ -17,6 +17,9 @@ From Feb., 2019 to Jul., 2019, I spent 5 months working as a visiting scholar in
 
 ## Publications
 
+8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan, Mingwei Xu. 
+[NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./).
+In Proceedings of the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 41/210=19.5%*)
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
@@ -28,7 +31,7 @@ In ZTE Communications, Vol. 16, No. 4, 2018
 In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
 4. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
 [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
-In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22%*)
+In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
 In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
