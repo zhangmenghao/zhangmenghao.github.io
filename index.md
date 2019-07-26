@@ -19,7 +19,7 @@ category: Tech
 
 8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan, Mingwei Xu. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./).
-In Proceedings of the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 41/210=19.5%*)
+In Proceedings of the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*)
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
