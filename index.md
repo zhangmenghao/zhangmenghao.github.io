@@ -17,7 +17,7 @@ category: Tech
 
 ## Publications
 
-8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan, Mingwei Xu. 
+8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./).
 In Proceedings of the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*)
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
@@ -55,7 +55,6 @@ In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–2
 * National Endeavor Fellowship in Tsinghua University, 2014
 * The friends of Huang Yicong and his wife - Tsinghua University Scholarships, 2013
 * 1st prize, National Physics Contest of College Students, 2013
-
 
 ## Useful Links
 
