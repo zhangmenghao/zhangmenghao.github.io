@@ -17,9 +17,12 @@ category: Tech
 
 ## Publications
 
+9. __Menghao Zhang__, Jiasong Bai, Guanyu Li, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu.
+[When NFV Meets ANN: Rethinking Elastic Scaling for ANN-based NFs](./papers/HDRNets2019ANN-NFV.pdf).
+In the 1st Workshop on Harnessing the Data Revolution in Networking (**HDR-Nets**), co-located with ICNP 2019, Chicago, Illinois, USA, October 7, 2019
 8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019NetHCF.pdf).
-In Proceedings of the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*)
+In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*)
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 2019 (*CCF-A*)
@@ -28,19 +31,19 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), Vol.37, No.3, 20
 In ZTE Communications, Vol. 16, No. 4, 2018
 5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
-In Proceedings of SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
+In SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
 4. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
 [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
-In Proceedings of the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
+In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
-In Proceedings of the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
+In the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
 DoS attack defense framework for SDN infrastructure.
-In Journal of Southeast University（Natural Science Edition, Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
+In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
 1. __Menghao Zhang__, Jun Bi, Jiasong Bai, Zhao Dong, Yongbin Li, Zhaogeng Li.
 [FTGuard: A Priority-Aware Strategy Against the Flow Table Overflow Attack in SDN](./papers/sigcomm2017-poster-ftguard.pdf).
-In Proceedings of SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
+In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
 
 
 ## Selected Honors and Awards
