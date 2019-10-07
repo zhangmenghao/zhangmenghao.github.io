@@ -66,14 +66,15 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 
 ## Teaching Experience
-* Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with Dr. Qi Li
-* Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
-* Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
-* Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
+* Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with Dr. Qi Li
+* Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
+* Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
+* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
 -->
 
 ## Selected Honors and Awards
 
+* Tsinghua Scholarship for Overseas Graduate Studies, 2019
 * Shanghai FiXun Digital Communication Technology Co., Ltd – Tsinghua University Scholarships, 2018
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
 * ACM SIGCOMM Travel Grant, 2017
