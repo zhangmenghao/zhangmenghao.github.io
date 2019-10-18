@@ -17,6 +17,9 @@ category: Tech
 
 ## Publications
 
+10. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, Menghao Zhang, Yangyang Wang, Mingwei Xu.
+[Fast Multi-string Pa￿ern Matching using PISA](./papers/CoNEXT2019-Poster-Bolt.pdf).
+In CoNEXT Posters and Demos, Orlando, Florida, U.S., December 9-12, 2019
 9. __Menghao Zhang__, Jiasong Bai, Guanyu Li, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu.
 [When NFV Meets ANN: Rethinking Elastic Scaling for ANN-based NFs](./papers/HDRNets2019ANN-NFV.pdf).
 In the 1st Workshop on Harnessing the Data Revolution in Networking (**HDR-Nets**), co-located with ICNP 2019, Chicago, Illinois, USA, October 7, 2019
