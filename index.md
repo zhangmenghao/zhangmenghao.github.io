@@ -17,7 +17,7 @@ category: Tech
 
 ## Publications
 
-10. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, Menghao Zhang, Yangyang Wang, Mingwei Xu.
+10. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, __Menghao Zhang__, Yangyang Wang, Mingwei Xu.
 [Fast Multi-string Pattern Matching using PISA](./papers/CoNEXT2019-Poster-Bolt.pdf).
 In CoNEXT Posters and Demos, Orlando, Florida, USA, December 9-12, 2019
 9. __Menghao Zhang__, Jiasong Bai, Guanyu Li, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu.
