@@ -77,6 +77,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 ## Selected Honors and Awards
 
+* Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
 * Tsinghua Scholarship for Overseas Graduate Studies, 2019
 * Shanghai FiXun Digital Communication Technology Co., Ltd – Tsinghua University Scholarships, 2018
