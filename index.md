@@ -17,6 +17,9 @@ category: Tech
 
 ## Publications
 
+12. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
+[Towards In-network Acceleration of Erasure Coding](.).
+In the ACM SIGCOMM Symposium on SDN Research (**SOSR**), San Jose, CA, USA, March 3, 2020
 11. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Enabling Cost-efficient and Agile DDoS Defense with Programmable Switches](.). 
 In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B, full paper acceptance ratio: 73/399=18.3%, <font color='red'>top conference in Security</font>*)
@@ -51,6 +54,7 @@ In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, 
 [FTGuard: A Priority-Aware Strategy Against the Flow Table Overflow Attack in SDN](./papers/sigcomm2017-poster-ftguard.pdf).
 In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
 
+
 <!--
 ## Professional Services
 #### Technical Program Committee
@@ -74,13 +78,13 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * IEEE Global Communications Conference (GLOBECOM), 2017
 * IEEE International Conference on Computer Communications and Networks (ICCCN), 2017, 2018
 
-
 ## Teaching Experience
 * Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with Dr. Qi Li
 * Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
 -->
+
 
 ## Selected Honors and Awards
 
