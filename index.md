@@ -18,7 +18,7 @@ category: Tech
 ## Publications
 
 12. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
-[Towards In-network Acceleration of Erasure Coding](.).
+Towards In-network Acceleration of Erasure Coding.
 In the ACM SIGCOMM Symposium on SDN Research (**SOSR**), San Jose, CA, USA, March 3, 2020
 11. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
