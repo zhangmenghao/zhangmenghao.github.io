@@ -22,7 +22,7 @@ category: Tech
 In the ACM SIGCOMM Symposium on SDN Research (**SOSR**), San Jose, CA, USA, March 3, 2020
 11. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
-In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B, full paper acceptance ratio: 73/399=18.3%, <font color='red'>top conference in Security</font>*)
+In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B, full paper acceptance ratio: 68/399=17%, <font color='red'>top conference in Security</font>*)
 10. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, __Menghao Zhang__, Yangyang Wang, Mingwei Xu.
 [Fast Multi-string Pattern Matching using PISA](./papers/CoNEXT2019-Poster-Bolt.pdf).
 In CoNEXT Posters and Demos, Orlando, Florida, USA, December 9-12, 2019
