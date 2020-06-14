@@ -18,7 +18,7 @@ category: Tech
 ## Publications
 
 13. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
-FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches.
+[FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches](./papers/SPIN2020-FastFE.pdf).
 In the 1st Workshop on Secure Programmable Network Infrastructure (**SPIN**), co-located with SIGCOMM 2020, New York, USA, August 10, 2020
 12. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
 [Towards In-network Acceleration of Erasure Coding](./papers/SOSR2020-NetEC.pdf).
