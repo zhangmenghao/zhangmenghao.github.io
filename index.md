@@ -58,7 +58,7 @@ In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, 
 [FTGuard: A Priority-Aware Strategy Against the Flow Table Overflow Attack in SDN](./papers/sigcomm2017-poster-ftguard.pdf).
 In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
 
-
+<!--
 ## Professional Services
 #### Technical Program Committee
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, 2020
@@ -89,7 +89,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
-
+-->
 
 ## Selected Honors and Awards
 
