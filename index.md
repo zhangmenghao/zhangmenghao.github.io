@@ -97,16 +97,16 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
 * Tsinghua Scholarship for Overseas Graduate Studies, 2019
-* Shanghai FiXun Digital Communication Technology Co., Ltd – Tsinghua University Scholarships, 2018
+* The Scholarship from Shanghai FiXun Digital Communication Technology Co., Ltd, Tsinghua University, 2018
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
 * ACM SIGCOMM Travel Grant, 2017
-* Excellent Graduate, Dept. of Computer Science & Technology, Tsinghua, 2016
+* Excellent Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2016
 * 3rd prize, Tsinghua University Network Security Technology Challenge Cup, 2015
-* Excellence in Technological Innovation - Tsinghua University Scholarships, 2015
-* The friends of Huang Yicong and his wife - Tsinghua University Scholarships, 2015
+* The Scholarship for Excellence in Technological Innovation, Tsinghua University, 2015
+* The Scholarship of Huang Yicong and his wife, Tsinghua University, 2015
 * 3rd prize, Tsinghua University Challenge Cup, 2015
-* National Endeavor Fellowship in Tsinghua University, 2014
-* The friends of Huang Yicong and his wife - Tsinghua University Scholarships, 2013
+* National Endeavor Scholarship in Tsinghua University, 2014
+* The Scholarship of Huang Yicong and his wife, Tsinghua University, 2013
 * 1st prize, National Physics Contest of College Students, 2013
 
 
