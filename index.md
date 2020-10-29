@@ -18,6 +18,9 @@ category: Tech
 
 ## Publications
 
+14. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
+Analysis of online college teaching data before and after the COVID-19 epidemic.
+In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*TH-CPL-B*)
 13. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
 [FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches](./papers/SPIN2020-FastFE.pdf).
 In the 1st Workshop on Secure Programmable Network Infrastructure (**SPIN**), co-located with SIGCOMM 2020, New York, USA, August 10, 2020
