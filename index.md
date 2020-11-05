@@ -99,7 +99,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
-* Tsinghua Scholarship for Overseas Graduate Studies, 2019
+* Tsinghua Scholarship for Overseas Graduate Studies, 2018
 * The Scholarship from Shanghai FiXun Digital Communication Technology Co., Ltd, Tsinghua University, 2017
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
 * ACM SIGCOMM Travel Grant, 2017
