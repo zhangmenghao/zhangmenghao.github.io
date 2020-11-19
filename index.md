@@ -63,7 +63,12 @@ In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, 
 [FTGuard: A Priority-Aware Strategy Against the Flow Table Overflow Attack in SDN](./papers/sigcomm2017-poster-ftguard.pdf).
 In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 
 
-<!--
+
+## Patents
+* 毕军,张梦豪,白家松,高凯. 一种基于软件定义网络的源地址验证系统[P]. CN108600158A, 2018-09-28. （已授权）
+* 毕军,乔奕,张梦豪. 基于无线局域网的源地址验证方法[P]. CN108965241A, 2018-12-07.
+
+
 ## Professional Services
 #### Technical Program Committee
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, 2020
@@ -96,7 +101,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
--->
+
 
 ## Selected Honors and Awards
 
