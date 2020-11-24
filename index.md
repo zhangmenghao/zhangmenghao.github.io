@@ -18,9 +18,7 @@ category: Tech
 
 ## Publications
 
-15. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. Control Plane Reflection Attacks and Defenses in Software-Defined Networks. In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), 2020 (*CCF-A/TH-CPL-A,
-<!-- <font color='red'>SCI Impact Factor 4.800</font>, -->
-<font color='red'>top journal in Computer Networks</font>*)
+15. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. Control Plane Reflection Attacks and Defenses in Software-Defined Networks. In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), 2020 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
 14. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
 Analysis of online college teaching data before and after the COVID-19 epidemic.
 <!-- COVID-19疫情前后高校在线教学数据分析 -->
@@ -45,9 +43,7 @@ In the 1st Workshop on Harnessing the Data Revolution in Networking (**HDR-Nets*
 In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*)
 7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
-In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</font>**), Vol.37, No.3, 2019 (*CCF-A/TH-CPL-A, 
-<!-- <font color='red'>SCI Impact Factor 11.42</font>, -->
-<font color='red'>top journal in Communications</font>*)
+In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</font>**), Vol.37, No.3, 2019 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 11.42</font>, <font color='red'>top journal in Communications</font>*)
 6. Jiasong Bai, __Menghao Zhang__, Jun Bi. 
 [Survey of Attacks and Countermeasures for SDN](./papers/zte2018survey.pdf).
 In ZTE Communications, Vol. 16, No. 4, 2018
