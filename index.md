@@ -18,41 +18,48 @@ category: Tech
 
 ## Publications
 
-15. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. Control Plane Reflection Attacks and Defenses in Software-Defined Networks. In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), 2020 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
-14. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
+#### Selected Publications
+6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs.
+In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*CCF-A/TH-CPL-A, full paper acceptance ration: 252/1266=19.9%*)
+5. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. 
+Control Plane Reflection Attacks and Defenses in Software-Defined Networks. 
+In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), 2020 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
+4. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
+[Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
+In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 88/506=17.4%, <font color='red'>top conference in Security</font>*)
+3. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
+[NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019NetHCF.pdf).
+In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*)
+2. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
+[Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
+In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</font>**), Vol.37, No.3, 2019 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 11.42</font>, <font color='red'>top journal in Communications</font>*)
+1. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
+[Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
+In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B/TH-CPL-B, full paper acceptance ratio: 32/145=22.1%*)
+
+#### Others
+10. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
 Analysis of online college teaching data before and after the COVID-19 epidemic.
 <!-- COVID-19疫情前后高校在线教学数据分析 -->
 In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*TH-CPL-B, In Chinese*)
-13. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
+9. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
 [FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches](./papers/SPIN2020-FastFE.pdf).
 In the 1st Workshop on Secure Programmable Network Infrastructure (**SPIN**), co-located with SIGCOMM 2020, New York, USA, August 10, 2020
-12. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
+8. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
 [Towards In-network Acceleration of Erasure Coding](./papers/SOSR2020-NetEC.pdf).
 In the ACM SIGCOMM Symposium on SDN Research (**SOSR**), San Jose, CA, USA, March 3, 2020
-11. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
-[Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
-In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 88/506=17.4%, <font color='red'>top conference in Security</font>*)
-10. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, __Menghao Zhang__, Yangyang Wang, Mingwei Xu.
+7. Shicheng Wang, Chang Liu, Ying Liu, Guanyu Li, __Menghao Zhang__, Yangyang Wang, Mingwei Xu.
 [Fast Multi-string Pattern Matching using PISA](./papers/CoNEXT2019-Poster-Bolt.pdf).
 In CoNEXT Posters and Demos, Orlando, Florida, USA, December 9-12, 2019
-9. __Menghao Zhang__, Jiasong Bai, Guanyu Li, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu.
+6. __Menghao Zhang__, Jiasong Bai, Guanyu Li, Zili Meng, Hongda Li, Hongxin Hu, Mingwei Xu.
 [When NFV Meets ANN: Rethinking Elastic Scaling for ANN-based NFs](./papers/HDRNets2019ANN-NFV.pdf).
 In the 1st Workshop on Harnessing the Data Revolution in Networking (**HDR-Nets**), co-located with ICNP 2019, Chicago, Illinois, USA, October 7, 2019
-8. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
-[NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019NetHCF.pdf).
-In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*)
-7. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
-[Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
-In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</font>**), Vol.37, No.3, 2019 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 11.42</font>, <font color='red'>top journal in Communications</font>*)
-6. Jiasong Bai, __Menghao Zhang__, Jun Bi. 
+5. Jiasong Bai, __Menghao Zhang__, Jun Bi. 
 [Survey of Attacks and Countermeasures for SDN](./papers/zte2018survey.pdf).
 In ZTE Communications, Vol. 16, No. 4, 2018
-5. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
+4. Jiasong Bai, Jun Bi, __Menghao Zhang__, Guanyu Li. 
 [NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs](./papers/sigcomm2018-poster-filtering.pdf).
 In SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
-4. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
-[Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
-In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B/TH-CPL-B, full paper acceptance ratio: 32/145=22.1%*)
 3. __Menghao Zhang__, Jun Bi, Jiasong Bai, Guanyu Li. 
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
 In the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
