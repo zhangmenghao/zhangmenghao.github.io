@@ -7,7 +7,6 @@ category: Tech
 
 
 ## Biography
-
 * *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
 * *Sep., 2016-Present*  **Ph.D. student**, Dept. of Computer Science & Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and Clemson University ([Dr. Hongxin Hu](https://people.cs.clemson.edu/~hongxih/)). 
 * *Feb., 2019-Jul., 2019*  **visiting scholar**, Dept. of Computer Science & Engineering, Texas A&M University, under the supervision of [Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
@@ -78,6 +77,12 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 * 毕军,乔奕,张梦豪. 基于无线局域网的源地址验证方法[P]. CN108965241A, 2018-12-07.
 
 
+<!--
+## Talks
+1. Large-scale DDoS mitigation with programmable switches, Technical Salon at Huawei Technologies Co., Ltd, Nov. 16, 2020
+-->
+
+
 ## Professional Services
 #### Technical Program Committee
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, 2020
@@ -114,7 +119,6 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 
 ## Selected Honors and Awards
-
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
@@ -133,7 +137,6 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 
 ## Useful Links
-
 * [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
 * [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
 * [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
