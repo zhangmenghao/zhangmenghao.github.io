@@ -64,7 +64,7 @@ In SIGCOMM Posters and Demos, Budapest, Hungary, August 20-25, 2018
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/trustcom2018-floodshield-securing.pdf).
 In the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*)
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
-DoS attack defense framework for SDN infrastructure.
+DoS Attack Defense Framework for SDN Infrastructure.
 <!-- 针对SDN基础设施的拒绝服务攻击防护框架 -->
 In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
 1. __Menghao Zhang__, Jun Bi, Jiasong Bai, Zhao Dong, Yongbin Li, Zhaogeng Li.
@@ -80,7 +80,14 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 <!--
 ## Talks
-1. Large-scale DDoS mitigation with programmable switches, Technical Salon at Huawei Technologies Co., Ltd, Nov. 16, 2020
+8. Large-scale DDoS mitigation with programmable switches, Technical Salon at Huawei Technologies Co., Ltd, Beijing, China, Dec. 16, 2020
+7. Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches, International Forum for Security Research, Tsinghua University, Nov. 30, 2020
+6. Bolt: Fast Multi-string Pattern Matching using PISA, Technical Salon at Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, Aug. 13, 2019
+5. Towards Security and Reliable Softwarized Networks, Technical Salon at Rice University, Houston, Texas, USA, Apr. 14, 2019 
+4. Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures, International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Heraklion, Crete, Greece, Sep. 11, 2018
+3. NetHCF: Filtering Spoofed IP Traffic Using Switching ASICs, Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM), Budapest, Hungary, Aug. 22, 2018
+2. FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks, IEEE International Conference On Trust, Security And Privacy In Computing And Communications (TrustCom), New York, USA, Aug. 2, 2018
+1. DoS Attack Defense Framework for SDN Infrastructure, CERNET Annual Symposium, Jinan, Shandong, China, Nov. 19, 2017
 -->
 
 
@@ -120,6 +127,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 
 ## Selected Honors and Awards
+* 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000)
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
