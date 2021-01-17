@@ -19,7 +19,7 @@ category: Tech
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
 6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
-[Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs.](./papers/infocom2020-Bolt.pdf)
+[Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](./papers/infocom2020-Bolt.pdf).
 In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*CCF-A/TH-CPL-A, full paper acceptance ration: 252/1266=19.9%*)
 5. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. 
 Control Plane Reflection Attacks and Defenses in Software-Defined Networks. 
