@@ -127,6 +127,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017
 
 
 ## Selected Honors and Awards
+* Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch ($5,000)
 * 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000)
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
