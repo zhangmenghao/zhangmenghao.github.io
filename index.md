@@ -18,7 +18,7 @@ category: Tech
 ## Publications 
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
-7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches. In IEEE/ACM Trans- actions on Networking (**<font color='red'>TON</font>**), 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
+7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches. In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
 6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
 [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](./papers/infocom2020-Bolt.pdf).
 In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*CCF-A/TH-CPL-A, full paper acceptance ration: 252/1266=19.9%*)
