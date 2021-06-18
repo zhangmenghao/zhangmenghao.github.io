@@ -130,7 +130,8 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Selected Honors and Awards
-* Excellent Ph.D Graduate, Beijing, 2021
+* Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
+* Outstanding Ph.D Graduate, Beijing, 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
 * 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000)
 * Tang Lixin Scholarship, Tsinghua University, 2020
@@ -140,7 +141,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 * The Scholarship from Shanghai FiXun Digital Communication Technology Co., Ltd, Tsinghua University, 2017
 * Student Chair, CCF ICoC 2017 Doctoral Forum, 2017
 * ACM SIGCOMM Travel Grant, 2017
-* Excellent Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2016
+* Outstanding Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2016
 * 3rd prize, Tsinghua University Network Security Technology Challenge Cup, 2015
 * The Scholarship for Excellence in Technological Innovation, Tsinghua University, 2015
 * The Scholarship of Huang Yicong and his wife, Tsinghua University, 2015
