@@ -1,16 +1,16 @@
 ---
 layout: default
 title: "Menghao Zhang"
-description: "Ph.D., Dept. of Computer Science & Technology, Tsinghua University, 100084, Beijing, China"
+description: "Software Engineer, Kuaishou Technology & Joint Post Doc at Tsinghua University and Kuaishou Technology"
 category: Tech
 ---
 
 
 ## Biography
 * *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science & Technology, Tsinghua University
-* *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science & Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
+* *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science & Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
 * *Feb., 2019-Jul., 2019*  **visiting scholar**, Dept. of Computer Science & Engineering, Texas A&M University, under the supervision of [Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
-* **Research interest**: (1) Software-Defined Programmable Network Security. I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), and extended Berkeley Packet Filter (eBPF). Besides, I have deeply involved in a set of scenarios, such as data center network, cloud gateway, Denial-of-Service attacks, Network Intrusion Detection/Prevention System, Internet of Things, Network Scanning, containers and etc. Most of my projects are trying to make software-defined networked systems more security and efficient. (2) Data-driven Network Anomaly Detection and Mitigation. I am also interested in leveraging advanced machine learning algorithms to do data-driven anomaly detection (e.g., network traffic analysis), which I believe is a promising direction.
+* **Research interest**: (1) Software-Defined Programmable Network Security. I am one of the first researchers to work on the intersections of programmable network and security, and have published across a wide range of well-recognized conferences and journals such as NDSS, RAID, INFOCOM, ICNP, HotNets, SOSR, JSAC, TON and etc. I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), and extended Berkeley Packet Filter (eBPF). Besides, I have deeply involved in a set of scenarios, such as data center network, cloud gateway, Denial-of-Service attacks, Network Intrusion Detection/Prevention System, Internet of Things, Network Scanning, network traffic analysis, containers and etc. Most of my projects are trying to make software-defined networked systems more security and efficient. (2) Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC), which I believe is promising for data center applications.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
 
@@ -18,10 +18,11 @@ category: Tech
 ## Publications 
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
-8. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches. 
-In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 
-<!-- (*CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101=30.7%*)-->
-7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. [Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](./papers/ton2021-Poseidon.pdf). 
+8. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. 
+[Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches].(./papers/HotNets2021-IMap.pdf)
+In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 (*CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101=30.7%*)
+7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. 
+[Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](./papers/ton2021-Poseidon.pdf). 
 In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 29, no. 4, pp. 1509-1526, August 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
 6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
 [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](./papers/infocom2021-Bolt.pdf).
@@ -96,7 +97,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 -->
 
 
-## Professional Services
+<!-- ## Professional Services
 #### Technical Program Committee
 * IEEE International Conference on Computer Communications and Networks (ICCCN), 2021
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, 2020, 2021
@@ -128,10 +129,11 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 * Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with Dr. Qi Li
 * Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
 * Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
-* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
+* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi -->
 
 
 ## Selected Honors and Awards
+* "Kwai Star" Special Technical Talent Program, Kuaishou Technology, 2021
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
 * Outstanding Ph.D Graduate, Beijing, 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
