@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Menghao Zhang"
-description: "Software Engineer, Kuaishou Technology & Joint Post Doc at Tsinghua University and Kuaishou Technology"
+description: "Joint Post Doc at Tsinghua University and Kuaishou Technology"
 category: Tech
 ---
 
