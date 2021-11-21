@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Menghao Zhang"
+title: "Menghao Zhang (张梦豪)"
 description: "Joint Post Doc at Tsinghua University and Kuaishou Technology"
 category: Tech
 ---
