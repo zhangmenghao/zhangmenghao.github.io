@@ -10,12 +10,12 @@ category: Tech
 
 * **Biography**:
     - *Nov., 2021-Now*  **Joint Post Doc**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
-    - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
+    - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](http://www.cs.tsinghua.edu.cn/publish/csen/4623/2010/20101224194435414856631/20101224194435414856631_.html) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
     From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
     - *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science and Technology, Tsinghua University
 * **Research interest**: 
-    - Software-Defined Programmable Network Security. I am one of the first researchers to work on the intersections of programmable networks and security, and have published across a wide range of well-recognized conferences and journals in this area such as NDSS, RAID, INFOCOM, ICNP, HotNets, SOSR, JSAC, TON and etc. I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), and extended Berkeley Packet Filter (eBPF). Besides, I have deeply involved in a set of scenarios, such as data center network, cloud gateway, Denial-of-Service (DoS) attacks, Network Intrusion Detection/Prevention System (NIDS/NIPS), Internet of Things (IoT), network scanning, network traffic analysis, container network and etc. Most of my projects are trying to make software-defined networked systems more security and efficient. 
-    - Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU), which I believe is promising for data center applications.
+    - Software-Defined Programmable Network Security. I am one of the first researchers to work on the intersections of programmable networks and security, and have published across a wide range of well-recognized conferences and journals in this area such as NDSS, NSDI, INFOCOM, ICNP, RAID, HotNets, SOSR, JSAC, TON and etc. I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), and extended Berkeley Packet Filter (eBPF). Besides, I have deeply involved in a set of scenarios, such as data center network, cloud gateway, Denial-of-Service (DoS) attacks, Network Intrusion Detection/Prevention System (NIDS/NIPS), Internet of Things (IoT), network scanning, network traffic analysis, container network and etc. Most of my projects are trying to make software-defined networked systems more security and efficient. 
+    - High-Performance Networking. Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU), which I believe is promising for data center applications, especially distributed machine learning clusters and large-scale storage clusters.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
 
@@ -23,6 +23,9 @@ category: Tech
 ## Publications 
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+9. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
+IMap: Fast and Scalable In-Network Scanning with Programmable Switches.
+In the 19th USENIX Symposium on Networked Systems Design and Implementation (**<font color='red'>NSDI</font>**), Renton, WA, USA, April 4-6, 2022 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Networked System</font>*)
 8. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. 
 [Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches](./papers/HotNets2021-IMap.pdf).
 In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 (*CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101=30.7%*)
@@ -138,11 +141,12 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Selected Honors and Awards
-* "Kwai Star" Special Technical Talent Program, Kuaishou Technology, 2021
+* "Kwai Star" Special Technical Talent Program, Kuaishou Technology, 2021 (The only winner in the engineering field)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
-* Outstanding Ph.D Graduate, Beijing, 2021
+* Outstanding Ph.D Graduate, Beijing, 2021 (Top 7 out of 100+ Ph.D Graduates in the CS department)
+* Selected in "Shuimu Tsinghua Scholar Program", 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
-* 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000)
+* 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000, 1st prize vacancy this year)
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
@@ -154,20 +158,22 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 * 3rd prize, Tsinghua University Network Security Technology Challenge Cup, 2015
 * The Scholarship for Excellence in Technological Innovation, Tsinghua University, 2015
 * The Scholarship of Huang Yicong and his wife, Tsinghua University, 2015
-* 3rd prize, Tsinghua University Challenge Cup, 2015
+* [3rd prize, Tsinghua University Challenge Cup, 2015](https://www.cs.tsinghua.edu.cn/info/1058/1130.htm)
 * National Endeavor Scholarship in Tsinghua University, 2014
 * The Scholarship of Huang Yicong and his wife, Tsinghua University, 2013
 * 1st prize, National Physics Contest of College Students, 2013
 
 
 ## Useful Links
-* [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
-* [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
+
 * [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
 * [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
+* [Conference Ranking by Department of Computer Science and Technology, Tsinghua University (TH-CPL)](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
+* [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
+* [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
 * [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By Dr. Konrad Rieck)
-* [Conference Ranking by Department of Computer Science and Technology, Tsinghua University (TH-CPL)](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
+
 
 
