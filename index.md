@@ -168,7 +168,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 * [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
 * [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
-* [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/xspj/wlyxxaq/)
+* [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/Focus/2019-04-25/663625.shtml)
 * [Conference Ranking by Department of Computer Science and Technology, Tsinghua University (TH-CPL)](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
 * [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
