@@ -20,7 +20,7 @@ category: Tech
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
 
 
-## Publications 
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
 9. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
