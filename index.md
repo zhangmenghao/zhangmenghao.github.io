@@ -23,6 +23,9 @@ category: Tech
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+10. Yi Qiao, __Menghao Zhang__, Yu Zhou, Xiao Kong, Han Zhang, Mingwei Xu, Jun Bi, Jilong Wang.
+NetEC: Accelerating Erasure Coding Reconstruction with In-Network Aggregation.
+In IEEE Transactions on Parallel and Distributed Systems (**<font color='red'>TPDS</font>**), January 2022 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 2.687</font>*, *<font color='red'>top journal in High Performance Computing</font>*)
 9. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
 IMap: Fast and Scalable In-Network Scanning with Programmable Switches.
 In the 19th USENIX Symposium on Networked Systems Design and Implementation (**<font color='red'>NSDI</font>**), Renton, WA, USA, April 4-6, 2022 (*CCF-A/TH-CPL-A, full paper acceptance ratio: 50/298=16.8%, <font color='red'>top conference in Networked System</font>*) [[code](https://github.com/IMapScanner/IMap)]
