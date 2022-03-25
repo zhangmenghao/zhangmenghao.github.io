@@ -9,7 +9,7 @@ category: Tech
 ## About Me
 
 * **Biography**:
-    - *Nov., 2021-Now*  **Joint Post Doc**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
+    - *Jul., 2021-Now*  **Joint Post Doc**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
     - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University. From my undergraduate years to Feb., 2019, I spent about 3.5 years working under the supervision of [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/), a diligent and kind professor. Unfortunately, he suddenly passed away in Feb., 2019. Then I switched to the supervision of [Dr. Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu), to continue my Ph.D. study. During the past few years, I am fortunate to work with partners from my lab (Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
     From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
     - *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science and Technology, Tsinghua University
@@ -18,6 +18,7 @@ category: Tech
     - High-Performance Networking. Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU) in large-scale real-world data center scenarios, especially large-scale distributed machine learning clusters.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
+* **Resume**: [中文简历](./resume/CV_Chinese.pdf)
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
