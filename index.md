@@ -18,7 +18,7 @@ category: Tech
     - High-Performance Networking. Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU) in large-scale real-world data center scenarios, especially large-scale distributed machine learning clusters.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
-* **Resume**: [中文简历](./resume/CV_Chinese.pdf)
+<!-- * **Resume**: [中文简历](./resume/CV_Chinese.pdf) -->
 
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
