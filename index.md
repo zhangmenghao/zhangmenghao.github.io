@@ -24,6 +24,9 @@ category: Tech
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+12. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Zhiliang Wang, Ying Liu, Mingwei Xu.
+Bolt: Scalable and Cost-Efficient Multi-String Pattern Matching with Programmable Switches.
+In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), August 2022 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
 11. __Menghao Zhang__, Guanyu Li, Xiao Kong, Chang Liu, Mingwei Xu, Guofei Gu, Jianping Wu.
 NetHCF: Filtering Spoofed IP Traffic With Programmable Switches.
 In IEEE Transactions on Dependable and Secure Computing (**<font color='red'>TDSC</font>**), March 2022 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 7.329</font>*, *<font color='red'>top journal in Network and Information Security</font>*) [[code](https://github.com/NetHCF/NetHCF/tree/master)]
