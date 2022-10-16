@@ -149,10 +149,10 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Teaching Experience
-* Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with Dr. Qi Li
-* Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with Dr. Jun Bi
-* Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with Dr. Jun Bi
-* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with Dr. Jun Bi
+* Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with [Dr. Qi Li](https://sites.google.com/site/qili2012/)
+* Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
+* Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
+* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
 
 
 ## Selected Honors and Awards
