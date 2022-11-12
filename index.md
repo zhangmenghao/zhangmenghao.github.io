@@ -162,7 +162,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 * Outstanding Ph.D Graduate, Beijing, 2021 (Top 7 out of 100+ Ph.D Graduates in the CS department)
 * Selected in "Shuimu Tsinghua Scholar Program", 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
-* 2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020 (¥50,000, 1st prize vacancy this year)
+* [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/P58fS1-Gb9dsrpgiV1rzGw) (¥50,000, 1st prize vacancy this year)
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
