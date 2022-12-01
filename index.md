@@ -50,7 +50,7 @@ In the 40th IEEE International Conference on Computer Communications (**INFOCOM*
 In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 29, no. 2, pp. 623-636, April 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
 4. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
-In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 88/506=17.4%, <font color='red'>top conference in Security</font>*)
+In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-A/TH-CPL-A, full paper acceptance ratio: 88/506=17.4%, <font color='red'>top conference in Security</font>*)
 3. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019NetHCF.pdf).
 In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
@@ -117,8 +117,8 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 <!--
 ## Research Grants
-* "Research on Network Architecture of Large-Scale Distributed Deep Learning Training Cluster based on Optical Interconnection", __PI__, China Postdoctoral Science Foundation (中国博士后科学基金资助项目), 2022
-* "Research on High-Performance Network Security Situation Awareness System in Data Center", __PI__, Beijing Postdoctoral Research Foundation (北京市博士后工作经费资助), 2022
+* "Research on Network Architecture of Large-Scale Distributed Deep Learning Training Cluster based on Optical Interconnection", __PI__, China Postdoctoral Science Foundation (中国博士后科学基金资助项目2022M720202), 2022
+* "Research on High-Performance Network Security Situation Awareness System in Data Center", __PI__, Beijing Postdoctoral Research Foundation (北京市博士后工作经费资助2022-ZZ-078), 2022
 -->
 
 
@@ -190,7 +190,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 * [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
 * [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
-* [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/Focus/2019-04-25/663625.shtml)
+* [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 * [Conference Ranking by Department of Computer Science and Technology, Tsinghua University (TH-CPL)](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
 * [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
