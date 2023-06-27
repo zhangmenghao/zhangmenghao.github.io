@@ -165,6 +165,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Selected Honors and Awards
+* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2023
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw) (The only winner in the system/engineering field of the whole company)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
 * Outstanding Ph.D Graduate, Beijing, 2021 (Top 7 out of 100+ Ph.D Graduates in the CS department)
