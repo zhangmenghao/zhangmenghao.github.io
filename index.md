@@ -65,6 +65,9 @@ In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</f
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B/TH-CPL-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+13. Cheng Guo, __Menghao Zhang__, Guanyu Li, Mingwei Xu.
+MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis.
+In IEEE Global Communications Conference (**Globalcom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C/TH-CPL-B)
 12. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Mingwei Xu. 
 Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks.
 In SIGCOMM Posters and Demos, New York, USA, September 10-14, 2023
