@@ -69,7 +69,7 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis.
 In IEEE Global Communications Conference (**Globelcom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C/TH-CPL-B)
 12. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Mingwei Xu. 
-Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks.
+[Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/sigcomm2023-poster-Chameleon.pdf).
 In SIGCOMM Posters and Demos, New York, USA, September 10-14, 2023
 11. Yichi Xu, Guanyu Li, Jiamin Cao, __Menghao Zhang__, Ying Liu, Mingwei Xu. 
 HyperClassifier: Accurate, Extensible and Scalable Traffic Classification with Programmable Switches. 
