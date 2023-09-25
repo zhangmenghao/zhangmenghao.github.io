@@ -26,7 +26,7 @@ category: Tech
 #### Selected Publications
 13. Renjie Xie, Jiahao Cao, Enhuan Dong, Mingwei Xu, Kun Sun, Qi Li, Licheng Shen, __Menghao Zhang__. 
 [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](./papers/security23-Rosetta.pdf).
-In the 32nd USENIX Security Symposium (**<font color='red'>USENIX Security</font>**), Anaheim, CA, USA, August 9-11, 2023 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*)[[code](https://github.com/sunskyXX/Rosetta)]
+In the 32nd USENIX Security Symposium (**<font color='red'>USENIX Security</font>**), Anaheim, CA, USA, August 9-11, 2023 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/sunskyXX/Rosetta)]
 12. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Zhiliang Wang, Ying Liu, Mingwei Xu.
 [Bolt: Scalable and Cost-Efficient Multi-String Pattern Matching with Programmable Switches](./papers/ton2023-Bolt.pdf).
 In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 31, no. 2, pp. 846-861, April 2023 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
