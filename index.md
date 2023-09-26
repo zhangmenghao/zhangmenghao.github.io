@@ -169,8 +169,8 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Teaching Experience
-* lecturer, Computer Network Architecture, Tsinghua University, Autumn 2022, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
-* lecturer, Computer Network Architecture, Tsinghua University, Autumn 2021, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
+* Lecturer, Computer Network Architecture, Tsinghua University, Autumn 2022, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
+* Lecturer, Computer Network Architecture, Tsinghua University, Autumn 2021, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2019, worked with [Prof. Qi Li](https://sites.google.com/site/qili2012/)
 * Teaching Assistant, Network Routing Protocols and Security, Tsinghua University, Spring 2018, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 * Teaching Assistant, Internet Routing Algorithms and Protocols, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
