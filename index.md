@@ -10,12 +10,13 @@ category: Tech
 
 * **Biography**:
     - *Jul., 2021-Now*  **Joint Post-Doctoral Researcher**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
-    - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University, advised by [Dr. Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and [Dr. Mingwei Xu](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu). During the past few years, I am fortunate to work with seniors and partners from my lab ([Dr. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en), [Dr. Qi Li](https://sites.google.com/site/qili2012/), Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Dr. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). 
-    From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Dr. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
+    - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu). 
+    <!--During the past few years, I am fortunate to work with seniors and partners from my lab ([Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en), [Prof. Qi Li](https://sites.google.com/site/qili2012/), Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Dr. Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Prof. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). -->
+    From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
     - *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science and Technology, Tsinghua University
 * **Research interest**: 
     - Software-Defined Programmable Network Security. I am one of the first researchers to work on the intersections of programmable networks and security, and have published across a wide range of well-recognized conferences and journals in this area such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, SOSR, JSAC, TON, TDSC, TPDS and etc. I am familiar with Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), Data Plane Development Kit (DPDK), and extended Berkeley Packet Filter (eBPF). Besides, I have deeply involved in a set of scenarios, such as data center networks, ISP (Internet Service Provider) networks, cloud gateway, Denial-of-Service (DoS) attacks, Network Intrusion Detection/Prevention System (NIDS/NIPS), Internet of Things (IoT), network scanning, network traffic analysis, container networks and etc. Most of my projects are trying to make software-defined networked systems more security and efficient. 
-    - High-Performance Networking. Recently I am working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU, NCCL) and communication optimizations in large-scale distributed machine learning clusters, which is becoming more and more important in this AI era.
+    - High-Performance Networking. I am also working on the area of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU, NCCL) and communication optimizations in large-scale distributed machine learning clusters, espcially for large language model and large sparse model, which is becoming more and more important in this AI era.
 * **Email**: zhangmenghao0503@gmail.com
 * **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
 <!-- * **Resume**: [中文简历](./resume/CV_Chinese.pdf) -->
@@ -168,10 +169,12 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Teaching Experience
-* Teaching Assistant, Internet Architecture and Security Foundation(74120013-0), Autumn 2019, worked with [Dr. Qi Li](https://sites.google.com/site/qili2012/)
-* Teaching Assistant, Network Routing Protocols and Security（84120042-0), Spring 2018, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
-* Teaching Assistant, Internet Routing Algorithms and Protocols（80240452-0), Autumn 2017, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
-* Teaching Assistant, Internet Architecture and Security Foundation（74120013-0), Autumn 2017, worked with [Dr. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/)
+* lecturer, Computer Network Architecture, Tsinghua University, Autumn 2022, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
+* lecturer, Computer Network Architecture, Tsinghua University, Autumn 2021, worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
+* Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2019, worked with [Prof. Qi Li](https://sites.google.com/site/qili2012/)
+* Teaching Assistant, Network Routing Protocols and Security, Tsinghua University, Spring 2018, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
+* Teaching Assistant, Internet Routing Algorithms and Protocols, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
+* Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 
 
 ## Selected Honors and Awards
