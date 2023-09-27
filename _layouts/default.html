@@ -21,7 +21,8 @@
           &nbsp;&nbsp;&nbsp;&nbsp;
           <div>
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h5 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h5>
+          <h5 id="project_tagline">{{ site.institution | default: site.github.project_tagline }}</h5>
           </div>
           </div>
           {% if site.show_downloads %}
