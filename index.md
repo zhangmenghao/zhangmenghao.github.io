@@ -25,6 +25,9 @@ category: Tech
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+14. Shicheng Wang, __Menghao Zhang__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
+LoRDMA: A New Low-Rate DoS Attack in RDMA Networks. 
+In the 30th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 26-March 1, 2024 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/LoRDMA-anonymous/LoRDMA)]
 13. Renjie Xie, Jiahao Cao, Enhuan Dong, Mingwei Xu, Kun Sun, Qi Li, Licheng Shen, __Menghao Zhang__. 
 [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](./papers/security23-Rosetta.pdf).
 In the 32nd USENIX Security Symposium (**<font color='red'>USENIX Security</font>**), Anaheim, CA, USA, August 9-11, 2023 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/sunskyXX/Rosetta)]
