@@ -25,6 +25,9 @@ category: Tech
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+15. __Menghao Zhang__, Guanyu Li, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
+IMap: Toward a Fast, Scalable and Reconfigurable In-Network Scanner with Programmable Switches.
+In IEEE Transactions on Information Forensics and Security (**<font color='red'>TIFS</font>**), 2023 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 6.8</font>*, *<font color='red'>top journal in Network and Information Security</font>*) [[code](https://github.com/IMapScanner/IMap)]
 14. Shicheng Wang, __Menghao Zhang__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
 LoRDMA: A New Low-Rate DoS Attack in RDMA Networks. 
 In the 30th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 26-March 1, 2024 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/LoRDMA-anonymous/LoRDMA)]
