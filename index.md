@@ -184,7 +184,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Selected Honors and Awards
-* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2023
+* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
 * Talented Youth Program, Huawei, 2022
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
