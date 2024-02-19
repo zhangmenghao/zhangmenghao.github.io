@@ -185,11 +185,11 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 ## Selected Honors and Awards
 * Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
-* Talented Youth Program, Huawei, 2022
+* Selected in "Talented Youth Program", Huawei, 2022
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
 * Outstanding Ph.D Graduate, Beijing, 2021 (Top 7 out of 100+ Ph.D Graduates in the CS department)
-* Selected in "Shuimu Tsinghua Scholar Program", 2021
+* Selected in "Shuimu Tsinghua Scholar Program", Tsinghua University, 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
 * [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/P58fS1-Gb9dsrpgiV1rzGw) (¥50,000, 1st prize vacancy this year)
 * Tang Lixin Scholarship, Tsinghua University, 2020
