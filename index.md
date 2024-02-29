@@ -11,7 +11,6 @@ category: Tech
 * **Biography**:
     - Mar., 2024-Now **Associate Professor**, School of Software, Beihang University
     - *Jul., 2021-Feb., 2024*  **Joint Post-Doctoral Researcher**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
-* **Education**:
     - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu). 
     <!--During the past few years, I am fortunate to work with seniors and partners from my lab ([Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en), [Prof. Qi Li](https://sites.google.com/site/qili2012/), Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Dr. Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Prof. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). -->
     From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
