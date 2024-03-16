@@ -8,18 +8,31 @@ category: Tech
 
 ## About Me
 
-* **Biography**:
-    - Mar., 2024-Now **Associate Professor**, School of Software, Beihang University
-    - *Jul., 2021-Feb., 2024*  **Joint Post-Doctoral Researcher**, Dept. of Computer Science and Technology, Tsinghua University & Networking Team, Kuaishou Technology
-    - *Sep., 2016-Jun., 2021*  **Ph.D. Degree**, Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Jianping Wu](https://www.cs.tsinghua.edu.cn/csen/info/1059/4003.htm) and [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu). 
-    <!--During the past few years, I am fortunate to work with seniors and partners from my lab ([Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en), [Prof. Qi Li](https://sites.google.com/site/qili2012/), Dr. Zhaogeng Li, Dr. Kai Gao, Jiasong Bai, [Dr. Guanyu Li](https://guanyu.li/), Yi Qiao, Shicheng Wang, Chang Liu, Xiao Kong, Cheng Guo, Han Bao and etc.) and collaborators from Rice University ([Prof. Ang Chen](https://www.cs.rice.edu/~angchen/)), Texas A&M University ([Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/), [Dr. Lei Xu](http://students.cse.tamu.edu/xray2012/)) and University at Buffalo, SUNY. ([Prof. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/)). -->
-    From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Dept. of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
-    - *Aug., 2012-Jul., 2016*  **B.S. Degree**, Dept. of Computer Science and Technology, Tsinghua University
-* **Research interest**: 
+
+I am an Associate Professor at School of Software, Beihang University. 
+Before joining in Beihang, I was a Joint Post-Doctoral Researcher at Department of Computer Science and Technology, Tsinghua University and Networking Team, Kuaishou Technology. 
+I got my Ph.D. Degree at Department of Computer Science and Technology, Tsinghua University in Jul. 2021, under the supervision of [Prof. Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm) and [Prof. Mingwei Xu](https://scholar.google.com/citations?user=xL6zuCMAAAAJ&hl=zh-CN), and got my B.S. Degree at Department of Computer Science and Technology, Tsinghua University in Jul., 2016. 
+From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Department of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
+
+Broadly, I mainly engaged in cutting-edge research in the fields of __programmable networks, high-performance networks, networked systems and network security__, with a long-term focus on enhancing the efficiency, security and reliability of networked systems in the face of rapidly growing network traffic and multifaceted application demands. 
+Over the course of my career, I have published more than 20 papers in esteemed conferences and journals such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, JSAC, TON, TDSC, TIFS, TPDS (including 10+ CCF-A papers), with one of them earned the Best Paper Award Nomination at IEEE INFOCOM 2021. My research interests including:
+* Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
+* High-Performance Networking (e.g., RDMA, SmartNIC, DPU/IPU);
+* Distributed system for AI (e.g., CXL, OCS, NCCL, Megatron/DeepSpeed);
+* AI-driven network security and networked systems.
+
+
+My official bio in Chinese maintained by Beihang University can be found here [中文简介](https://shi.buaa.edu.cn/zhangmenghao/zh_CN/index/208552/list/index.htm).
+
+Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
+
+**<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
+    
+<!-- * **Research interest**: 
     - Software-Defined Programmable Network Security. I have been a pioneering researcher at the forefront of exploring the intersections of programmable networks and security, and my work is well-recognized in esteemed conferences and journals such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, SOSR, JSAC, TON, TDSC, TIFS, TPDS and more. My expertise extends to various technologies, including Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), Data Plane Development Kit (DPDK), and extended Berkeley Packet Filter (eBPF). Besides, I have a deep understanding of diverse scenarios, such as data center networks, ISP (Internet Service Provider) networks, cloud gateway, Denial-of-Service (DoS) attacks, Network Intrusion Detection/Prevention System (NIDS/NIPS), Internet of Things (IoT), network scanning, network traffic analysis, and container networks. Throughout my projects, my focus has consistently been on enhancing the security, efficiency and reliability of software-defined networked systems.
     - High-Performance Networking. I am also actively engaged in the realm of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU, NCCL) and communication optimizations in large-scale distributed machine learning training clusters, which is becoming more and more important in this AI era. As part of my professional journey, I've had the privilege of leading the design, optimization, and implementation of RDMA networks in Kuaishou's machine learning training clusters from inception. These experiences have provided me with production-level engineering insights and invaluable perspectives in the ever-evolving landscape of high-performance networking.
 * **Email**: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
-* **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao)
+* **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao) -->
 <!-- * **Resume**: [中文简历](./resume/CV_Chinese.pdf) -->
 
 
