@@ -44,64 +44,64 @@ Office: D306, New Main Building, Beihang University
 #### Selected Publications
 15. Shicheng Wang, __Menghao Zhang__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
 [LoRDMA: A New Low-Rate DoS Attack in RDMA Networks](./papers/NDSS2024-LoRDMA.pdf). 
-In the 30th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 26-March 1, 2024 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/wangshicheng1225/LoRDMA)]
+In the 30th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 26-March 1, 2024 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/wangshicheng1225/LoRDMA)]
 14. __Menghao Zhang__, Guanyu Li, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
 [IMap: Toward a Fast, Scalable and Reconfigurable In-Network Scanner with Programmable Switches](./papers/TIFS2024-IMap.pdf).
-In IEEE Transactions on Information Forensics and Security (**<font color='red'>TIFS</font>**), vol. 19, pp. 601-615, 2024 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 6.8</font>*, *<font color='red'>top journal in Network and Information Security</font>*) [[code](https://github.com/IMapScanner/IMap)]
+In IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 19, pp. 601-615, 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*) [[code](https://github.com/IMapScanner/IMap)]
 13. Renjie Xie, Jiahao Cao, Enhuan Dong, Mingwei Xu, Kun Sun, Qi Li, Licheng Shen, __Menghao Zhang__. 
 [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](./papers/security23-Rosetta.pdf).
-In the 32nd USENIX Security Symposium (**<font color='red'>USENIX Security</font>**), Anaheim, CA, USA, August 9-11, 2023 (*CCF-A/TH-CPL-A, <font color='red'>top conference in Security</font>*) [[code](https://github.com/sunskyXX/Rosetta)]
+In the 32nd USENIX Security Symposium (**<font color='red'>USENIX Security</font>**), Anaheim, CA, USA, August 9-11, 2023 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/sunskyXX/Rosetta)]
 12. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Zhiliang Wang, Ying Liu, Mingwei Xu.
 [Bolt: Scalable and Cost-Efficient Multi-String Pattern Matching with Programmable Switches](./papers/ton2023-Bolt.pdf).
-In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 31, no. 2, pp. 846-861, April 2023 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
+In IEEE/ACM Transactions on Networking (**TON**), vol. 31, no. 2, pp. 846-861, April 2023 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
 11. __Menghao Zhang__, Guanyu Li, Xiao Kong, Chang Liu, Mingwei Xu, Guofei Gu, Jianping Wu.
 [NetHCF: Filtering Spoofed IP Traffic With Programmable Switches](./papers/TDSC2023-NetHCF.pdf).
-In IEEE Transactions on Dependable and Secure Computing (**<font color='red'>TDSC</font>**), vol. 20, no. 2, pp. 1641-1655, March-April 2023 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 7.329</font>*, *<font color='red'>top journal in Network and Information Security</font>*) [[code](https://github.com/NetHCF/NetHCF/tree/master)]
+In IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol. 20, no. 2, pp. 1641-1655, March-April 2023 (*<font color='red'>CCF-A</font>, SCI Impact Factor 7.329, top journal in Network and Information Security*) [[code](https://github.com/NetHCF/NetHCF/tree/master)]
 10. Yi Qiao, __Menghao Zhang__, Yu Zhou, Xiao Kong, Han Zhang, Mingwei Xu, Jun Bi, Jilong Wang.
 [NetEC: Accelerating Erasure Coding Reconstruction with In-Network Aggregation](./papers/TPDS2022-NetEC.pdf).
-In IEEE Transactions on Parallel and Distributed Systems (**<font color='red'>TPDS</font>**), vol. 33, no. 10, pp. 2571-2583, October 2022 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 2.687</font>*, *<font color='red'>top journal in High Performance Computing</font>*) [[code](https://github.com/netec-2019/netec)]
+In IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 33, no. 10, pp. 2571-2583, October 2022 (*<font color='red'>CCF-A</font>, SCI Impact Factor 2.687, top journal in High Performance Computing*) [[code](https://github.com/netec-2019/netec)]
 9. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
 [IMap: Fast and Scalable In-Network Scanning with Programmable Switches](./papers/nsdi2022-IMap.pdf).
-In the 19th USENIX Symposium on Networked Systems Design and Implementation (**<font color='red'>NSDI</font>**), Renton, WA, USA, April 4-6, 2022 (*CCF-A/TH-CPL-A, full paper acceptance ratio: 50/298=16.8%, <font color='red'>top conference in Networked System</font>*) [[code](https://github.com/IMapScanner/IMap)]
+In the 19th USENIX Symposium on Networked Systems Design and Implementation (**<font color='red'>NSDI</font>**), Renton, WA, USA, April 4-6, 2022 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 50/298=16.8%, top conference in Networked System*) [[code](https://github.com/IMapScanner/IMap)]
 8. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. 
 [Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches](./papers/HotNets2021-IMap.pdf).
-In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 (*CCF-C/TH-CPL-B, full paper acceptance ratio: 31/101=30.7%*)
+In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 (*CCF-C, full paper acceptance ratio: 31/101=30.7%*)
 7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. 
 [Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](./papers/ton2021-Poseidon.pdf). 
-In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 29, no. 4, pp. 1509-1526, August 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
+In IEEE/ACM Transactions on Networking (**TON**), vol. 29, no. 4, pp. 1509-1526, August 2021 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*)
 6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
 [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](./papers/infocom2021-Bolt.pdf).
-In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*CCF-A/TH-CPL-A, full paper acceptance ratio: 251/1266=19.7%, <font color='red'>Best Paper Award Nomination, Top 13 out of 251 accepted papers</font>*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
+In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 251/1266=19.7%, <font color='red'>Best Paper Award Nomination</font>, Top 13 out of 251 accepted papers*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
 5. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. 
 [Control Plane Reflection Attacks and Defenses in Software-Defined Networks](./papers/ton2021-sdns-attacks.pdf). 
-In IEEE/ACM Transactions on Networking (**<font color='red'>TON</font>**), vol. 29, no. 2, pp. 623-636, April 2021 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 3.315</font>, <font color='red'>top journal in Computer Networks</font>*)
+In IEEE/ACM Transactions on Networking (**TON**), vol. 29, no. 2, pp. 623-636, April 2021 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*)
 4. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
-In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*CCF-A/TH-CPL-A, full paper acceptance ratio: 88/506=17.4%, <font color='red'>top conference in Security</font>*)
+In the 27th Network and Distributed System Security Symposium (**<font color='red'>NDSS</font>**), San Diego, CA, USA, February 23-26, 2020 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 88/506=17.4%, top conference in Security*)
 3. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019NetHCF.pdf).
-In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
+In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
 2. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/jsac2019tripod.pdf). 
-In IEEE Journal on Selected Areas in Communications (**<font color='red'>JSAC</font>**), vol. 37, no. 3, pp. 570-585, March 2019 (*CCF-A/TH-CPL-A, <font color='red'>SCI Impact Factor 11.42</font>, <font color='red'>top journal in Communications</font>*) [[code](https://github.com/zhangmenghao/Tripod/tree/master/gateway)]
+In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, pp. 570-585, March 2019 (*<font color='red'>CCF-A</font>, SCI Impact Factor 11.42, top journal in Communications*) [[code](https://github.com/zhangmenghao/Tripod/tree/master/gateway)]
 1. __Menghao Zhang__, Guanyu Li, Lei Xu, Jun Bi, Guofei Gu, Jiasong Bai. 
 [Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures](./papers/raid2018-sdns-attacks.pdf).
-In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B/TH-CPL-B, full paper acceptance ratio: 32/145=22.1%*)
+In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
 13. Cheng Guo, __Menghao Zhang__, Guanyu Li, Mingwei Xu.
 [MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis](./papers/Globecom23-MulTA.pdf).
-In IEEE Global Communications Conference (**Globecom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C/TH-CPL-B)
+In IEEE Global Communications Conference (**Globecom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C)
 12. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Mingwei Xu. 
 [Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/sigcomm2023-poster-Chameleon.pdf).
 In SIGCOMM Posters and Demos, New York, USA, September 10-14, 2023
 11. Yichi Xu, Guanyu Li, Jiamin Cao, __Menghao Zhang__, Ying Liu, Mingwei Xu. 
 [HyperClassifier: Accurate, Extensible and Scalable Traffic Classification with Programmable Switches](./papers/ICC2023-HyperClassifier.pdf). 
-In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28-June 01, 2023 (CCF-C/TH-CPL-B)
+In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28-June 01, 2023 (CCF-C)
 10. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
 Analysis of online college teaching data before and after the COVID-19 epidemic.
 <!-- COVID-19疫情前后高校在线教学数据分析 (./papers/COVID_19疫情前后高校在线教学数据分析.pdf)-->
-In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*TH-CPL-B, In Chinese*)
+In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*In Chinese*)
 9. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
 [FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches](./papers/SPIN2020-FastFE.pdf).
 In the 1st Workshop on Secure Programmable Network Infrastructure (**SPIN**), co-located with SIGCOMM 2020, New York, USA, August 10, 2020
