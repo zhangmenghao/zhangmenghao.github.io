@@ -154,8 +154,9 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 
 
 ## Research Grants
-* "Research on Network Architecture of Large-Scale Distributed Deep Learning Training Cluster based on Optical Interconnection", __PI__, China Postdoctoral Science Foundation (中国博士后科学基金资助项目2022M720202), 2022
-* "Research on High-Performance Network Security Situation Awareness System in Data Center", __PI__, Beijing Postdoctoral Research Foundation (北京市博士后工作经费资助2022-ZZ-078), 2022
+* "Migration and Verification of Open Source Large Models to Domestic Software and Hardware (国产开源大模型向国产软硬件的迁移验证)", __Co-PI__, Beijing Science and Technology Plan Project (北京市科技计划项目Z231100010323013), 2024-Now
+* "Research on Network Architecture of Large-Scale Distributed Deep Learning Training Cluster based on Optical Interconnection (基于光互连的大规模分布式深度学习训练集群的架构方案研究)", __PI__, China Postdoctoral Science Foundation (中国博士后科学基金资助项目2022M720202), 2022-2023
+* "Research on High-Performance Network Security Situation Awareness System in Data Center (数据中心高性能网络安全态势感知系统研究)", __PI__, Beijing Postdoctoral Research Foundation (北京市博士后工作经费资助2022-ZZ-078), 2022-2023
 
 
 
