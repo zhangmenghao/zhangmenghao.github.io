@@ -175,6 +175,7 @@ In SIGCOMM Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[code]
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE/ACM Transactions on Networking (TON)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Network and Service Management (TNSM)
 * Computer Networks (CN)
 * Computers & Security
