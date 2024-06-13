@@ -89,6 +89,15 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+16. Shiguang Zhang, Jiahao Cao, __Menghao Zhang__, Mingwei Xu, Wei Han, Yanbin Zhai, Zhiming Zhang.
+Co4U: Efficient and Robust HTTP Message Compression for Edge Computing Networks.
+In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024
+15. Haotian Deng, Yuan Yang, __Menghao Zhang__, Mingwei Xu.
+CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths.
+In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024 [[code](https://github.com/denght23/CAVER)]
+14. Xiao Li, Shicheng Wang, __Menghao Zhang__, Zhiliang Wang, Mingwei Xu, Jiahai Yang. 
+RDMA Network Performance Anomalies Diagnosis with Hawkeye.
+In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024 [[code](https://github.com/lixiao19/Hawkeye-NS3)]
 13. Cheng Guo, __Menghao Zhang__, Guanyu Li, Mingwei Xu.
 [MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis](./papers/Globecom23-MulTA.pdf).
 In IEEE Global Communications Conference (**Globecom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C)
