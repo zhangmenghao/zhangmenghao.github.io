@@ -89,6 +89,9 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+17. Xinhao Deng, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, __Menghao Zhang__, Yu Zhou, Jianping Wu.
+Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.
+In IEEE Transactions on Network and Service Management (**TNSM**), 2024 (*CCF-C*)
 16. Shiguang Zhang, Jiahao Cao, __Menghao Zhang__, Mingwei Xu, Wei Han, Yanbin Zhai, Zhiming Zhang.
 Co4U: Efficient and Robust HTTP Message Compression for Edge Computing Networks.
 In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024
@@ -100,13 +103,13 @@ RDMA Network Performance Anomalies Diagnosis with Hawkeye.
 In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024 [[code](https://github.com/lixiao19/Hawkeye-NS3)]
 13. Cheng Guo, __Menghao Zhang__, Guanyu Li, Mingwei Xu.
 [MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis](./papers/Globecom23-MulTA.pdf).
-In IEEE Global Communications Conference (**Globecom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (CCF-C)
+In IEEE Global Communications Conference (**Globecom**), Kuala Lumpur, Malaysia, December 4-8, 2023 (*CCF-C*)
 12. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Mingwei Xu. 
 [Chameleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/sigcomm2023-poster-Chameleon.pdf).
 In SIGCOMM Posters and Demos, New York, USA, September 10-14, 2023
 11. Yichi Xu, Guanyu Li, Jiamin Cao, __Menghao Zhang__, Ying Liu, Mingwei Xu. 
 [HyperClassifier: Accurate, Extensible and Scalable Traffic Classification with Programmable Switches](./papers/ICC2023-HyperClassifier.pdf). 
-In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28-June 01, 2023 (CCF-C)
+In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28-June 01, 2023 (*CCF-C*)
 10. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
 Analysis of online college teaching data before and after the COVID-19 epidemic.
 <!-- COVID-19疫情前后高校在线教学数据分析 (./papers/COVID_19疫情前后高校在线教学数据分析.pdf)-->
