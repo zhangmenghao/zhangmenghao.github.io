@@ -15,7 +15,7 @@ I got my Ph.D. Degree at Department of Computer Science and Technology, Tsinghua
 From Feb., 2019 to Jul., 2019, I worked as a visiting scholar at Department of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
 
 Broadly, I mainly engaged in cutting-edge research in the fields of __programmable networks, high-performance networks, networked systems and network security__, with a long-term focus on enhancing the efficiency, security and reliability of networked systems in the face of rapidly growing network traffic and multifaceted application demands. 
-Over the course of my career, I have published more than 30 papers in esteemed conferences and journals such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, JSAC, TON, TDSC, TIFS, TPDS (including 10+ CCF-A papers), with one of them earned the Best Paper Award Nomination at IEEE INFOCOM 2021. My recent research interests including:
+Over the course of my career, I have published more than 30 papers in esteemed conferences and journals such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, JSAC, TON, TDSC, TIFS, TPDS (including 10+ CCF-A papers), with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
 * Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
 * High-Performance Networking (e.g., RDMA, SmartNIC, DPU/IPU);
 * Distributed system for AI (e.g., CXL, OCS, NCCL, Megatron/DeepSpeed, TensorRT-LLM);
@@ -42,6 +42,12 @@ Office: D306, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
+Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks.
+In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [code]
+16. Renjie Xie, Jiahao Cao, Yuxi Zhu, Yixiang Zhang, Yi He, Hanyi Peng, Yixiao Wang, Mingwei Xu, Kun Sun, Enhuan Dong, Qi Li, __Menghao Zhang__, Jiang Li.
+Cactus: Obfuscating Bidirectional Encrypted TCP Traffic at Client Side.
+In IEEE Transactions on Information Forensics and Security (**TIFS**), 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
 15. Shicheng Wang, __Menghao Zhang__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
 [LoRDMA: A New Low-Rate DoS Attack in RDMA Networks](./papers/NDSS2024-LoRDMA.pdf). 
 In the 30th Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 26-March 1, 2024 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/wangshicheng1225/LoRDMA)]
