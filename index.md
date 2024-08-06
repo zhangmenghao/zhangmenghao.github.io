@@ -99,13 +99,13 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation.
 In IEEE Transactions on Network and Service Management (**TNSM**), 2024 (*CCF-C*)
 16. Shiguang Zhang, Jiahao Cao, __Menghao Zhang__, Mingwei Xu, Wei Han, Yanbin Zhai, Zhiming Zhang.
-Co4U: Efficient and Robust HTTP Message Compression for Edge Computing Networks.
+[Co4U: Efficient and Robust HTTP Message Compression for Edge Computing Networks](./papers/SIGCOMM2024-poster-Co4U.pdf).
 In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024
 15. Haotian Deng, Yuan Yang, __Menghao Zhang__, Mingwei Xu.
-CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths.
+[CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths](./papers/SIGCOMM2024-poster-CAVER.pdf).
 In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024 [[code](https://github.com/denght23/CAVER)]
 14. Xiao Li, Shicheng Wang, __Menghao Zhang__, Zhiliang Wang, Mingwei Xu, Jiahai Yang. 
-RDMA Network Performance Anomalies Diagnosis with Hawkeye.
+[RDMA Network Performance Anomalies Diagnosis with Hawkeye](./papers/SIGCOMM2024-poster-Hawkeye.pdf).
 In SIGCOMM Posters and Demos, Sydney, Australia, August 4-8, 2024 [[code](https://github.com/lixiao19/Hawkeye-NS3)]
 13. Cheng Guo, __Menghao Zhang__, Guanyu Li, Mingwei Xu.
 [MulTA: Enabling Cost-efficient Multi-task Network Traffic Analysis](./papers/Globecom23-MulTA.pdf).
