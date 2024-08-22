@@ -42,6 +42,9 @@ Office: D306, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+18. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
+SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications.
+In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, top conference in System*)
 17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks.
 In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [code]
