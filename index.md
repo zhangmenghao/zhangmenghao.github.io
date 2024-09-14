@@ -47,7 +47,7 @@ SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, top conference in System*)
 17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
-In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [code]
+In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
 16. Renjie Xie, Jiahao Cao, Yuxi Zhu, Yixiang Zhang, Yi He, Hanyi Peng, Yixiao Wang, Mingwei Xu, Kun Sun, Enhuan Dong, Qi Li, __Menghao Zhang__, Jiang Li.
 [Cactus: Obfuscating Bidirectional Encrypted TCP Traffic at Client Side](./papers/TIFS2024-Cactus.pdf).
 In IEEE Transactions on Information Forensics and Security (**TIFS**), 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
