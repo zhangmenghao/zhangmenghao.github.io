@@ -42,15 +42,15 @@ Office: D306, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
-20. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
-Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
-In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
-19. Ziyang Liu, Rengyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
-Kale: Elastic GPU Scheduling for Online DL Model Training.
-In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
-18. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
+20. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
 SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications.
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, top conference in System*)
+19. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
+Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
+18. Ziyang Liu, Rengyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
+Kale: Elastic GPU Scheduling for Online DL Model Training.
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
 17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
 In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
