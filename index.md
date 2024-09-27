@@ -42,6 +42,12 @@ Office: D306, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+20. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
+Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
+19. Ziyang Liu, Rengyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
+Kale: Elastic GPU Scheduling for Online DL Model Training.
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**),Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
 18. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
 SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications.
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, top conference in System*)
