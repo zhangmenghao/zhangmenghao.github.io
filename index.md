@@ -48,7 +48,7 @@ In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Ne
 19. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
 Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
-18. Ziyang Liu, Rengyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
+18. Ziyang Liu, Renyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
 Kale: Elastic GPU Scheduling for Online DL Model Training.
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
 17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
