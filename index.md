@@ -105,10 +105,10 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 
 #### Others
 19. Yuyan Zhao, __Menghao Zhang__, Tianyu Wo, Renyu Yang, Chunming Hu.
-BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM.
+[BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
 18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
-Themis: Efficiently Mitigating Congestion-Induced Fairness Disparities in Long-Haul RDMA Networks.
+[Themis: Efficiently Mitigating Congestion-Induced Fairness Disparities in Long-Haul RDMA Networks](./papers/SOSP2024-Poster-Themis.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
 17. Xinhao Deng, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, __Menghao Zhang__, Yu Zhou, Jianping Wu.
 [Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation](./papers/TNSM2024-DROPS.pdf).
@@ -243,7 +243,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Selected in "Talented Youth Program", Huawei, 2022
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
-* Outstanding Ph.D Graduate, Beijing, 2021 (Top 7 out of 100+ Ph.D Graduates in the CS department)
+* Outstanding Ph.D Graduate, Beijing, 2021 (**Top 7 out of 100+ Ph.D Graduates in the CS department**)
 * Selected in "Shuimu Tsinghua Scholar Program", Tsinghua University, 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
 * [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/P58fS1-Gb9dsrpgiV1rzGw) (¥50,000, 1st prize vacancy this year)
