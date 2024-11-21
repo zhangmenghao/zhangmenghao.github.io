@@ -46,10 +46,10 @@ Office: D306, New Main Building, Beihang University
 [SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](./papers/EuroSys2024-SuperFE.pdf).
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, top conference in System*)
 19. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
-Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training.
+[Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training](./papers/SoCC2024-GComp.pdf).
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
 18. Ziyang Liu, Renyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
-Kale: Elastic GPU Scheduling for Online DL Model Training.
+[Kale: Elastic GPU Scheduling for Online DL Model Training](./papers/SoCC2024-Kale.pdf).
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
 17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
