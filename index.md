@@ -9,7 +9,8 @@ category: Tech
 ## About Me
 
 
-I am an Associate Professor at School of Software, Beihang University.
+I am an Associate Professor at School of Software, Beihang University. I am also working closely with Zhongguancun Laboratory.
+
 Before joining in Beihang, I was a Joint Post-Doctoral Researcher at Department of Computer Science and Technology, Tsinghua University and Networking Team, Kuaishou Technology.
 I got my Ph.D. Degree at Department of Computer Science and Technology, Tsinghua University in Jun., 2021 under the supervision of [Prof. Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm) and [Prof. Mingwei Xu](https://scholar.google.com/citations?user=xL6zuCMAAAAJ&hl=zh-CN), and got my B.S. Degree at Department of Computer Science and Technology, Tsinghua University in Jul., 2016.
 From Feb., 2019 to Jul. 2019, I worked as a visiting scholar at Department of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
