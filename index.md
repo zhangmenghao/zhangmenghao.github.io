@@ -44,7 +44,7 @@ Office: D306, New Main Building, Beihang University
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
 21. Zhikai Zou, __Menghao Zhang__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
-Research Advances in Programmable Switches Driven Network Security.
+Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
 20. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
 [SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](./papers/EuroSys2024-SuperFE.pdf).
@@ -136,7 +136,7 @@ In **SIGCOMM** Posters and Demos, New York, USA, September 10-14, 2023
 [HyperClassifier: Accurate, Extensible and Scalable Traffic Classification with Programmable Switches](./papers/ICC2023-HyperClassifier.pdf). 
 In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28-June 01, 2023 (*CCF-C*)
 10. Xiao Kong, Naijia Liu, __Menghao Zhang__, Mingwei Xu. 
-Analysis of online college teaching data before and after the COVID-19 epidemic.
+Analysis of online college teaching data before and after the COVID-19 epidemic (COVID-19疫情前后高校在线教学数据分析).
 <!-- COVID-19疫情前后高校在线教学数据分析 (./papers/COVID_19疫情前后高校在线教学数据分析.pdf)-->
 In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*In Chinese*)
 9. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
@@ -161,7 +161,7 @@ In **SIGCOMM** Posters and Demos, Budapest, Hungary, August 20-25, 2018 [[code](
 [FloodShield: Securing the SDN Infrastructure Against Denial-of-Service Attacks](./papers/TrustCom2018-FloodShield.pdf).
 In the 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (**TrustCom**), New York, USA, July 31-August 3, 2018 (*CCF-C*) [[code](https://github.com/zhangmenghao/FloodShield)]
 2. __Menghao Zhang__, Jun Bi, Jiasong Bai, Yangyang Wang. 
-DoS Attack Defense Framework for SDN Infrastructure.
+DoS Attack Defense Framework for SDN Infrastructure (针对SDN基础设施的拒绝服务攻击防护框架).
 <!-- 针对SDN基础设施的拒绝服务攻击防护框架 (./papers/针对SDN基础设施的拒绝服务攻击防护框架.pdf)-->
 In Journal of Southeast University（Natural Science Edition), Jinan, Shandong, China, November 20-24, 2017 (*In Chinese*)
 1. __Menghao Zhang__, Jun Bi, Jiasong Bai, Zhao Dong, Yongbin Li, Zhaogeng Li.
