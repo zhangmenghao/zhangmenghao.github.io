@@ -206,6 +206,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Annual Computer Security Applications Conference (ACSAC), [2019](https://www.acsac.org/2019/committees/artifact/)
 
 #### Technical Program Committee
+* IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, [2020](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3374664), [2021](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3422337)
 
