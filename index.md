@@ -192,6 +192,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Research Grants
+* "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12
+<!-- * "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities (RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12 -->
 * "Research on Malicious Traffic Detection System Based on Programmable Data Plane (基于可编程数据平面的恶意流量检测系统研究)", __PI__, National Natural Science Foundation of China (国家自然科学基金青年项目62402025), 2025.1-2027.12
 * "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通讯恢复技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20220105488), 2024.8-2025.7
 * "Migration and Verification of Open Source Large Models to Domestic Software and Hardware (国产开源大模型向国产软硬件的迁移验证)", __Co-PI__, Beijing Science and Technology Plan Project (北京市科技计划项目Z231100010323013), 2024.5-2025.12
@@ -201,14 +203,14 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Professional Services
-#### Artifact Evaluation Committee
-* Usenix Security Symposium (Security), [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts), [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
-* Annual Computer Security Applications Conference (ACSAC), [2019](https://www.acsac.org/2019/committees/artifact/)
-
 #### Technical Program Committee
 * IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, [2020](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3374664), [2021](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3422337)
+
+#### Artifact Evaluation Committee
+* Usenix Security Symposium (Security), [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts), [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
+* Annual Computer Security Applications Conference (ACSAC), [2019](https://www.acsac.org/2019/committees/artifact/)
 
 #### Journal Reviewer
 * IEEE Transactions on Information Forensics and Security (TIFS)
@@ -235,6 +237,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Teaching Experience
+* Parallel Programming, Beihang University, Spring 2025
 * Discrete Mathematics 2, Beihang University, Autumn 2024
 * Lecturer, Computer Network Architecture, Tsinghua University, Autumn 2021, 2022, 2023 worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2019, worked with [Prof. Qi Li](https://sites.google.com/site/qili2012/)
@@ -245,10 +248,10 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Selected Honors and Awards
 * Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
-* Selected in "Talented Youth Program", Huawei, 2022
-* [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw)
+* Selected in "Talented Youth Program", Huawei, 2022 (华为“天才少年”计划)
+* [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw) (快手“快star”特别人才计划)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
-* Outstanding Ph.D Graduate, Beijing, 2021 (**Top 7 out of 100+ Ph.D Graduates in the CS department**)
+* Outstanding Ph.D Graduate, Beijing, 2021 (**Top 7 out of 100+ Ph.D Graduates in the CS department**) (北京市优秀毕业生)
 * Selected in "Shuimu Tsinghua Scholar Program", Tsinghua University, 2021
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
 * [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/P58fS1-Gb9dsrpgiV1rzGw) (¥50,000, 1st prize vacancy this year)
