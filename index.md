@@ -5,7 +5,6 @@ description: "Associate Professor, Beihang University"
 category: Tech
 ---
 
-
 ## About Me
 
 
@@ -32,13 +31,6 @@ Office: D306, New Main Building, Beihang University
 
 **<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
     
-<!-- * **Research interest**: 
-    - Software-Defined Programmable Network Security. I have been a pioneering researcher at the forefront of exploring the intersections of programmable networks and security, and my work is well-recognized in esteemed conferences and journals such as NDSS, NSDI, Security, INFOCOM, ICNP, RAID, HotNets, SOSR, JSAC, TON, TDSC, TIFS, TPDS and more. My expertise extends to various technologies, including Software Defined Networking (SDN), Network Function Virtualization (NFV), Programmable data plane (P4), Data Plane Development Kit (DPDK), and extended Berkeley Packet Filter (eBPF). Besides, I have a deep understanding of diverse scenarios, such as data center networks, ISP (Internet Service Provider) networks, cloud gateway, Denial-of-Service (DoS) attacks, Network Intrusion Detection/Prevention System (NIDS/NIPS), Internet of Things (IoT), network scanning, network traffic analysis, and container networks. Throughout my projects, my focus has consistently been on enhancing the security, efficiency and reliability of software-defined networked systems.
-    - High-Performance Networking. I am also actively engaged in the realm of high-performance networking (e.g., RDMA, SmartNIC, DPU/IPU, NCCL) and communication optimizations in large-scale distributed machine learning training clusters, which is becoming more and more important in this AI era. As part of my professional journey, I've had the privilege of leading the design, optimization, and implementation of RDMA networks in Kuaishou's machine learning training clusters from inception. These experiences have provided me with production-level engineering insights and invaluable perspectives in the ever-evolving landscape of high-performance networking.
-* **Email**: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
-* **Github**: [https://github.com/ZhangMenghao](https://github.com/ZhangMenghao) -->
-<!-- * **Resume**: [中文简历](./resume/CV_Chinese.pdf) -->
-
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
@@ -192,7 +184,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Research Grants
-* "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12
+<!-- * "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12 -->
 <!-- * "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities (RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12 -->
 * "Research on Malicious Traffic Detection System Based on Programmable Data Plane (基于可编程数据平面的恶意流量检测系统研究)", __PI__, National Natural Science Foundation of China (国家自然科学基金青年项目62402025), 2025.1-2027.12
 * "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通讯恢复技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20220105488), 2024.8-2025.7
@@ -245,6 +237,25 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Teaching Assistant, Internet Routing Algorithms and Protocols, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 
+<!--
+## Students
+#### Current Member
+* Yuyan Zhao, Ph.D., 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
+* Jiaxun Huang, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Zhikai Zou, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
+* Fangzheng Jiao, Pd.D., 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
+* Mengyu Yang, Master, 2024.9-Present, Beihang University
+* Yuezheng Liu, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Xudong Liu
+* Yuxuan Chen, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Mingming Zhang, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo and Prof. Renyu Yang
+* Jinyi Xia, Pd.D, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Jue Zhang, Master, 2025.9-Present, Beihang University
+* Qiyang Peng, Master, 2025.9-Present, Beihang University
+* Yucheng Li, Master, 2025.9-Present, Beihang University 
+
+
+#### Alumni
+-->
 
 ## Selected Honors and Awards
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
