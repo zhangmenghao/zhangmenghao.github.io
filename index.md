@@ -26,7 +26,7 @@ My official bio in Chinese maintained by Beihang University can be found here [ä
 
 Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
 
-Office: D306, New Main Building, Beihang University
+Office: C823, New Main Building, Beihang University
 
 
 **<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
