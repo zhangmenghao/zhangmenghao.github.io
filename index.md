@@ -103,9 +103,9 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 19. Yuyan Zhao, __Menghao Zhang__, Tianyu Wo, Renyu Yang, Chunming Hu.
 [BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
-18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
+<!-- 18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
 [Themis: Efficiently Mitigating Congestion-Induced Fairness Disparities in Long-Haul RDMA Networks](./papers/SOSP2024-Poster-Themis.pdf).
-In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
+In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024 -->
 17. Xinhao Deng, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, __Menghao Zhang__, Yu Zhou, Jianping Wu.
 [Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation](./papers/TNSM2024-DROPS.pdf).
 In IEEE Transactions on Network and Service Management (**TNSM**), 2024 (*CCF-C*)
