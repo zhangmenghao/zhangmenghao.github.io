@@ -7,7 +7,6 @@ category: Tech
 
 ## About Me
 
-
 I am an Associate Professor at School of Software, Beihang University, also a member of State Key Laboratory of Complex & Critical Software Environment, Beihang University. I am also working closely with Zhongguancun Laboratory.
 
 Before joining in Beihang, I was a Joint Post-Doctoral Researcher at Department of Computer Science and Technology, Tsinghua University and Networking Team, Kuaishou Technology.
@@ -27,7 +26,6 @@ My official bio in Chinese maintained by Beihang University can be found here [�
 Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
 
 Office: C823, New Main Building, Beihang University
-
 
 **<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
     
@@ -187,10 +185,10 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Research Grants
-<!-- * "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12 -->
-<!-- * "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities (RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12 -->
+* "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12
+* "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities Under Collective Communications (集合通讯场景下RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Huawei-Beihang Joint Lab (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12
 * "Research on Malicious Traffic Detection System Based on Programmable Data Plane (基于可编程数据平面的恶意流量检测系统研究)", __PI__, National Natural Science Foundation of China (国家自然科学基金青年项目62402025), 2025.1-2027.12
-* "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通讯恢复技术研究)", __PI__, Beihang-Huawei Key Software Joint Laboratory Project (北航-华为关键软件联合实验室项目TC20220105488), 2024.8-2025.7
+* "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通讯恢复技术研究)", __PI__, Huawei-Beihang Joint Lab (华为-北航关键软件联合实验室项目TC20220105488), 2024.8-2025.7
 * "Migration and Verification of Open Source Large Models to Domestic Software and Hardware (国产开源大模型向国产软硬件的迁移验证)", __Co-PI__, Beijing Science and Technology Plan Project (北京市科技计划项目Z231100010323013), 2024.5-2025.12
 * "Research on Network Architecture of Large-Scale Distributed Deep Learning Training Cluster based on Optical Interconnection (基于光互连的大规模分布式深度学习训练集群的架构方案研究)", __PI__, China Postdoctoral Science Foundation (中国博士后科学基金资助项目2022M720202), 2022.8-2023.12
 * "Research on High-Performance Network Security Situation Awareness System in Data Center (数据中心高性能网络安全态势感知系统研究)", __PI__, Beijing Postdoctoral Research Foundation (北京市博士后工作经费资助2022-ZZ-078), 2022.3-2023.12
