@@ -33,6 +33,9 @@ Office: C823, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 <!-- (* indicates that I am the corresponding author) -->
 #### Selected Publications
+22. Jinyi Xia, __Menghao Zhang__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
+Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner.
+In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*)
 21. Zhikai Zou, __Menghao Zhang__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
 Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
@@ -101,9 +104,9 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 19. Yuyan Zhao, __Menghao Zhang__, Tianyu Wo, Renyu Yang, Chunming Hu.
 [BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
-<!-- 18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
+18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
 [Themis: Efficiently Mitigating Congestion-Induced Fairness Disparities in Long-Haul RDMA Networks](./papers/SOSP2024-Poster-Themis.pdf).
-In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024 -->
+In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
 17. Xinhao Deng, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, __Menghao Zhang__, Yu Zhou, Jianping Wu.
 [Exploring Dynamic Rule Caching Under Dependency Constraints for Programmable Switches: Theory, Algorithm, and Implementation](./papers/TNSM2024-DROPS.pdf).
 In IEEE Transactions on Network and Service Management (**TNSM**), 2024 (*CCF-C*)
