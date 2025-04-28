@@ -189,7 +189,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Research Grants
 * "Intelligent Computing System for Integration and Optimization of Domestic Heterogeneous Acceleration Cards (面向国产异构加速卡集成与优化的智能计算系统)", __Key Member__, National Key Research and Development Program (国家重点研发计划2024YFB4505604), 2024.12-2027.11
-* "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12
+<!-- * "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12 -->
 * "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities Under Collective Communications (集合通讯场景下RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Huawei-Beihang Joint Lab (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12
 * "Research on Malicious Traffic Detection System Based on Programmable Data Plane (基于可编程数据平面的恶意流量检测系统研究)", __PI__, National Natural Science Foundation of China (国家自然科学基金青年项目62402025), 2025.1-2027.12
 * "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通讯恢复技术研究)", __PI__, Huawei-Beihang Joint Lab (华为-北航关键软件联合实验室项目TC20220105488), 2024.8-2025.7
