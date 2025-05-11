@@ -220,8 +220,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Computers & Security
  
 #### Membership
-* CCF互联网专委会执行委员
-* CCF网络与数据通信专委会执行委员
+* 中国计算机学会互联网专委会执行委员
+* 中国计算机学会网络与数据通信专委会执行委员
 * 中国通信学会算力网络委员会委员
 
 
