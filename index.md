@@ -219,18 +219,10 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Computer Networks (CN)
 * Computers & Security
  
-#### External/Sub Reviewer
-* IEEE Symposium on Security and Privacy (Oakland), 2020
-* Usenix Security Symposium (Security), 2021
-* ISOC Network and Distributed System Security Symposium (NDSS), 2019, 2020, 2021
-* International Symposium on Research Attacks, Intrusions and Defenses (RAID), 2019
-* Annual Computer Security Applications Conference (ACSAC), 2019
-* Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2020
-* European Symposium on Research in Computer Security (ESORICS), 2019
-* ACM Symposium on SDN Research (SOSR), 2017, 2018, 2019, 2021
-* IEEE Global Communications Conference (GLOBECOM), 2017
-* IEEE International Conference on Computer Communications and Networks (ICCCN), 2017, 2018
-* IFIP International Conferences on Networking (Networking), 2020
+#### Membership
+* CCF互联网专委会执行委员
+* CCF网络与数据通信专委会执行委员
+* 中国通信学会算力网络委员会委员
 
 
 ## Teaching Experience
