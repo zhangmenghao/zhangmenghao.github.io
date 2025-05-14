@@ -40,7 +40,7 @@ In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, Aug
 Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
 20. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
-[SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](./papers/EuroSys2024-SuperFE.pdf).
+[SuperFE: A Scalable and Flexible Feature Extractor for ML-based Traffic Analysis Applications](./papers/EuroSys2025-SuperFE.pdf).
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 85/696=12.2%, top conference in System*)
 19. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
 [Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training](./papers/SoCC2024-GComp.pdf).
