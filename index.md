@@ -35,7 +35,7 @@ Office: C823, New Main Building, Beihang University
 #### Selected Publications
 22. Jinyi Xia, __Menghao Zhang__#, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
 Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner.
-In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*)
+In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
 21. Zhikai Zou, __Menghao Zhang__#, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
 Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
