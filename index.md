@@ -101,6 +101,12 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+21. Yuanxuan Chen, __Menghao Zhang__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
+Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications.
+In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025
+20. Qiyang Peng, __Menghao Zhang__, Feiyang Wang, Guanyu Li, Chunming Hu.
+Astraea: Enforcing DPU Performance Isolation in Public Clouds.
+In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025
 19. Yuyan Zhao, __Menghao Zhang__, Tianyu Wo, Renyu Yang, Chunming Hu.
 [BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
