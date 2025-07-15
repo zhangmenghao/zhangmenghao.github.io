@@ -35,7 +35,7 @@ Office: C823, New Main Building, Beihang University
 #### Selected Publications
 23. Shicheng Wang, __Menghao Zhang__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Xiaohe Hu, Jiahai Yang, Xingang Shi.
 Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance.
-In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*CCF-A*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
+In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
 22. Jinyi Xia, __Menghao Zhang__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
 Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner.
 In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
