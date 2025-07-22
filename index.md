@@ -31,15 +31,18 @@ Office: C823, New Main Building, Beihang University
     
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
-<!-- (# indicates that I am the corresponding author) -->
+(# indicates that I am the corresponding author)
 #### Selected Publications
-23. Shicheng Wang, __Menghao Zhang__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
+24. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
+Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks.
+In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
+23. Shicheng Wang, __Menghao Zhang#__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
 Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance.
 In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>, <font color='red'>top #1 conference in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
-22. Jinyi Xia, __Menghao Zhang__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
+22. Jinyi Xia, __Menghao Zhang#__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
 Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner.
 In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
-21. Zhikai Zou, __Menghao Zhang__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
+21. Zhikai Zou, __Menghao Zhang#__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
 [Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展)](./papers/基于可编程交换机的网络安全研究进展.pdf).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
 20. __Menghao Zhang__, Guanyu Li, Cheng Guo, Renyu Yang, Shicheng Wang, Han Bao, Xiao Li, Mingwei Xu, Tianyu Wo, Chunming Hu.
@@ -51,13 +54,13 @@ In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), R
 18. Ziyang Liu, Renyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
 [Kale: Elastic GPU Scheduling for Online DL Model Training](./papers/SoCC2024-Kale.pdf).
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
-17. Ziteng Chen, __Menghao Zhang__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
+17. Ziteng Chen, __Menghao Zhang#__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
 In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
 16. Renjie Xie, Jiahao Cao, Yuxi Zhu, Yixiang Zhang, Yi He, Hanyi Peng, Yixiao Wang, Mingwei Xu, Kun Sun, Enhuan Dong, Qi Li, __Menghao Zhang__, Jiang Li.
 [Cactus: Obfuscating Bidirectional Encrypted TCP Traffic at Client Side](./papers/TIFS2024-Cactus.pdf).
 In IEEE Transactions on Information Forensics and Security (**TIFS**), 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
-15. Shicheng Wang, __Menghao Zhang__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
+15. Shicheng Wang, __Menghao Zhang#__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
 [LoRDMA: A New Low-Rate DoS Attack in RDMA Networks](./papers/NDSS2024-LoRDMA.pdf). 
 In the 30th Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 26-March 1, 2024 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/wangshicheng1225/LoRDMA)]
 14. __Menghao Zhang__, Guanyu Li, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
@@ -66,7 +69,7 @@ In IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 19, 
 13. Renjie Xie, Jiahao Cao, Enhuan Dong, Mingwei Xu, Kun Sun, Qi Li, Licheng Shen, __Menghao Zhang__. 
 [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](./papers/Security23-Rosetta.pdf).
 In the 32nd USENIX Security Symposium (**USENIX Security**), Anaheim, CA, USA, August 9-11, 2023 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/sunskyXX/Rosetta)]
-12. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Zhiliang Wang, Ying Liu, Mingwei Xu.
+12. Shicheng Wang, __Menghao Zhang#__, Guanyu Li, Chang Liu, Zhiliang Wang, Ying Liu, Mingwei Xu.
 [Bolt: Scalable and Cost-Efficient Multi-String Pattern Matching with Programmable Switches](./papers/TON2023-Bolt.pdf).
 In IEEE/ACM Transactions on Networking (**TON**), vol. 31, no. 2, pp. 846-861, April 2023 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
 11. __Menghao Zhang__, Guanyu Li, Xiao Kong, Chang Liu, Mingwei Xu, Guofei Gu, Jianping Wu.
@@ -75,16 +78,16 @@ In IEEE Transactions on Dependable and Secure Computing (**TDSC**), vol. 20, no.
 10. Yi Qiao, __Menghao Zhang__, Yu Zhou, Xiao Kong, Han Zhang, Mingwei Xu, Jun Bi, Jilong Wang.
 [NetEC: Accelerating Erasure Coding Reconstruction with In-Network Aggregation](./papers/TPDS2022-NetEC.pdf).
 In IEEE Transactions on Parallel and Distributed Systems (**TPDS**), vol. 33, no. 10, pp. 2571-2583, October 2022 (*<font color='red'>CCF-A</font>, SCI Impact Factor 2.687, top journal in High Performance Computing*) [[code](https://github.com/netec-2019/netec)]
-9. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
+9. Guanyu Li, __Menghao Zhang#__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
 [IMap: Fast and Scalable In-Network Scanning with Programmable Switches](./papers/NSDI2022-IMap.pdf).
 In the 19th USENIX Symposium on Networked Systems Design and Implementation (**NSDI**), Renton, WA, USA, April 4-6, 2022 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 50/298=16.8%, top conference in Networked System*) [[code](https://github.com/IMapScanner/IMap)]
-8. Guanyu Li, __Menghao Zhang__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. 
+8. Guanyu Li, __Menghao Zhang#__, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu. 
 [Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches](./papers/HotNets2021-IMap.pdf).
 In the 20th ACM Workshop on Hot Topics in Networks (**HotNets**), Virtual Conference, November 10-12, 2021 (*CCF-C, full paper acceptance ratio: 31/101=30.7%*)
-7. Guanyu Li, __Menghao Zhang__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. 
+7. Guanyu Li, __Menghao Zhang#__, Shicheng Wang, Chang Liu, Mingwei Xu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Jianping Wu. 
 [Enabling Performant, Flexible and Cost-Efficient DDoS Defense with Programmable Switches](./papers/TON2021-Poseidon.pdf). 
 In IEEE/ACM Transactions on Networking (**TON**), vol. 29, no. 4, pp. 1509-1526, August 2021 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*)
-6. Shicheng Wang, __Menghao Zhang__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
+6. Shicheng Wang, __Menghao Zhang#__, Guanyu Li, Chang Liu, Ying Liu, Xuya Jia, Mingwei Xu. 
 [Making Multi-String Pattern Matching Scalable and Cost-Efficient with Programmable Switching ASICs](./papers/INFOCOM2021-Bolt.pdf).
 In the 40th IEEE International Conference on Computer Communications (**INFOCOM**), Virtual Conference, May 10-13, 2021 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 251/1266=19.7%, <font color='red'>Best Paper Award Nomination</font>, Top 13 out of 251 accepted papers*) [[code](https://github.com/wangshicheng1225/BOLT-v2)]
 5. __Menghao Zhang__, Guanyu Li, Lei Xu, Jiasong Bai, Mingwei Xu, Guofei Gu, Jianping Wu. 
@@ -93,7 +96,7 @@ In IEEE/ACM Transactions on Networking (**TON**), vol. 29, no. 2, pp. 623-636, A
 4. __Menghao Zhang__, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu, Jianping Wu. 
 [Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches](./papers/NDSS2020-Poseidon.pdf). 
 In the 27th Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-26, 2020 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 88/506=17.4%, top conference in Security*)
-3. Guanyu Li, __Menghao Zhang__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
+3. Guanyu Li, __Menghao Zhang#__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019-NetHCF.pdf).
 In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
 2. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
@@ -104,16 +107,16 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
-21. Yuanxuan Chen, __Menghao Zhang__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
+21. Yuanxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
 Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications.
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025
-20. Qiyang Peng, __Menghao Zhang__, Feiyang Wang, Guanyu Li, Chunming Hu.
+20. Qiyang Peng, __Menghao Zhang#__, Feiyang Wang, Guanyu Li, Chunming Hu.
 Astraea: Enforcing DPU Performance Isolation in Public Clouds.
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025
-19. Yuyan Zhao, __Menghao Zhang__, Tianyu Wo, Renyu Yang, Chunming Hu.
+19. Yuyan Zhao, __Menghao Zhang#__, Tianyu Wo, Renyu Yang, Chunming Hu.
 [BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
-18. Rixin Liu, __Menghao Zhang__, Zihan Niu, Zili Meng, Xiaohe Hu.
+18. Rixin Liu, __Menghao Zhang#__, Zihan Niu, Zili Meng, Xiaohe Hu.
 [Themis: Efficiently Mitigating Congestion-Induced Fairness Disparities in Long-Haul RDMA Networks](./papers/SOSP2024-Poster-Themis.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
 17. Xinhao Deng, Mingwei Xu, Qi Li, Weijie Wu, Yuan Yang, __Menghao Zhang__, Yu Zhou, Jianping Wu.
@@ -141,7 +144,7 @@ In IEEE International Conference on Communication (**ICC**), Rome, Italy, May 28
 Analysis of online college teaching data before and after the COVID-19 epidemic (COVID-19疫情前后高校在线教学数据分析).
 <!-- COVID-19疫情前后高校在线教学数据分析 (./papers/COVID_19疫情前后高校在线教学数据分析.pdf)-->
 In Journal of Tsinghua University (Science and Technology), September 23, 2020 (*In Chinese*)
-9. Jiasong Bai, __Menghao Zhang__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
+9. Jiasong Bai, __Menghao Zhang#__, Guanyu Li, Chang Liu, Mingwei Xu, Hongxin Hu. 
 [FastFE: Accelerating ML-based Traffic Analysis with Programmable Switches](./papers/SPIN2020-FastFE.pdf).
 In the 1st Workshop on Secure Programmable Network Infrastructure (**SPIN**), co-located with SIGCOMM 2020, New York, USA, August 10, 2020
 8. Yi Qiao, Xiao Kong, __Menghao Zhang__, Yu Zhou, Mingwei Xu, Jun Bi.
