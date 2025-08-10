@@ -40,7 +40,7 @@ In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul
 Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance.
 In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>, <font color='red'>top #1 conference in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
 22. Jinyi Xia, __Menghao Zhang#__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
-Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner.
+[Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner](./papers/APNet2025-Mnemosyne.pdf).
 In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
 21. Zhikai Zou, __Menghao Zhang#__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
 [Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展)](./papers/基于可编程交换机的网络安全研究进展.pdf).
