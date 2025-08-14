@@ -37,7 +37,7 @@ Office: C823, New Main Building, Beihang University
 Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks.
 In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
 23. Shicheng Wang, __Menghao Zhang#__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
-Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance.
+[Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance](./papers/SIGCOMM2025-Hawkeye.pdf).
 In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>, <font color='red'>top #1 conference in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
 22. Jinyi Xia, __Menghao Zhang#__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
 [Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner](./papers/APNet2025-Mnemosyne.pdf).
