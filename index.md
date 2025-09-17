@@ -28,7 +28,12 @@ Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
 Office: C823, New Main Building, Beihang University
 
 **<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
-    
+
+
+## News
+2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络大赛三等奖，并获10000元奖励！
+2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
+2025.7 课题组成员王飞阳、宋学斌、彭启阳同学获得中国高校计算机大赛网络技术挑战赛华北赛区二等奖！
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
@@ -244,7 +249,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Teaching Experience
 * Parallel Programming, Beihang University, Spring 2025
-* Discrete Mathematics 2, Beihang University, Autumn 2024
+* Discrete Mathematics 2, Beihang University, Autumn 2024, 2025
 * Lecturer, Computer Network Architecture, Tsinghua University, Autumn 2021, 2022, 2023 worked with [Prof. Mingwei Xu](http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Mingwei+Xu)
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2019, worked with [Prof. Qi Li](https://sites.google.com/site/qili2012/)
 * Teaching Assistant, Network Routing Protocols and Security, Tsinghua University, Spring 2018, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
@@ -271,8 +276,9 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 -->
 
 ## Selected Honors and Awards
+* 中国高校计算机大赛网络技术挑战赛总决赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
-* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022 (个人磐石奖)
+* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022 (快手个人磐石奖)
 * Selected in "Talented Youth Program", Huawei, 2022 (华为“天才少年”计划)
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw) (快手“快star”特别人才计划)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
@@ -307,6 +313,3 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
 * [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By Dr. Konrad Rieck)
-
-
-
