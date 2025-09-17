@@ -38,6 +38,9 @@ Office: C823, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+24. Haotian Deng, Xuebin Song, __Menghao Zhang#__, Yuan Yang, Mingwei Xu.
+JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling.
+In the 24th ACM Workshop on Hot Topics in Networks (**HotNets**), College Park, Maryland, USA, November 17-18, 2025 (*CCF-C, full paper acceptance ratio: 50/178=28.1%*)
 23. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/ICNP2025-Themis.pdf).
 In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
