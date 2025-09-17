@@ -31,7 +31,7 @@ Office: C823, New Main Building, Beihang University
 
 
 ## News
-* 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络大赛三等奖，并获10000元奖励！
+* 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络挑战赛三等奖，并获10000元奖励！
 * 2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
 * 2025.7 课题组成员王飞阳、宋学斌、彭启阳同学获得中国高校计算机大赛网络技术挑战赛华北赛区二等奖！
 
@@ -276,7 +276,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 -->
 
 ## Selected Honors and Awards
-* 中国高校计算机大赛网络技术挑战赛总决赛优秀指导教师奖，2025
+* 中国高校计算机大赛网络技术挑战赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
 * Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022 (快手个人磐石奖)
 * Selected in "Talented Youth Program", Huawei, 2022 (华为“天才少年”计划)
