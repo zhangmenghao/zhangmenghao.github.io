@@ -186,7 +186,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * 张梦豪,黄佳讯,夏锦熠,刘岳征,胡春明,刘旭东. 一种大模型训练场景下的故障快速恢复方法[P]. 202511088059.5, 2025-08-05.
 * 张梦豪,焦方正,胡春明. 一种大模型训练挂起和降速场景下故障定位方法[P]. 202510798395.2, 2025-06-16.
 * 张梦豪,牛梓涵,刘日欣. 一种广域RDMA网络拥塞控制公平性补偿方法[P]. 202510769289.1, 2025-06-10.
-* 张梦豪,邹志凯,杨梦雨. 一种基于可编程交换机和智能网卡的流量特征提取系统[P]. 202411881092.9, 2024-12-19.
+* 张梦豪,邹志凯,杨梦雨. 一种基于可编程交换机和智能网卡的流量特征提取系统[P]. 202411881092.9, 2024-12-19. （已授权）
 * 张梦豪,杨梦雨. 一种基于可编程网络的流量特征提取方法及接口[P]. 202411880764.4, 2024-12-19. （已授权）
 * 徐明伟,张梦豪,陈子腾,李冠宇,曹家浩,敬阳,谢仁杰,刘贺,焦方正,胡效赫. RDMA网络的DCQCN参数调优方法、装置、RDMA网络和存储介质[P]. 202411720415.6, 2024-11-27.
 * 王之梁,王士诚,张梦豪,陈子腾,徐明伟,谢仁杰,杨家海. RDMA场景下低速率拒绝服务攻击流量生成方法与装置[P]. 202410058070.6, 2024-01-15.
@@ -262,9 +262,10 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 <!--
 ## Students
 #### Current Member
-* Yuyan Zhao, Ph.D., 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
-* Fangzheng Jiao, Pd.D., 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
-* Jinyi Xia, Pd.D, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Yuyan Zhao, Ph.D. student, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
+* Fangzheng Jiao, Pd.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
+* Jinyi Xia, Pd.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Jiaxun Huang, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Zhikai Zou, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
@@ -272,23 +273,27 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Yuxuan Chen, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Jue Zhang, Master, 2025.9-Present, Beihang University
 * Qiyang Peng, Master, 2025.9-Present, Beihang University
-* Yucheng Li, Master, 2025.9-Present, Beihang University 
+* Yucheng Li, Master, 2025.9-Present, Beihang University
+* Mengyao Jian, Master, 2025.9-Present, Beihang University
+* Xuebin Song, Master, 2026.9-Present, Beihang University
 
 
 #### Alumni
+* Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment @Pd.D. student, Rice University
 -->
 
 ## Selected Honors and Awards
+* ACM SIGCOMM China新星奖，2025
 * 中国高校计算机大赛网络技术挑战赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
-* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022 (快手个人磐石奖)
+* Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
 * Selected in "Talented Youth Program", Huawei, 2022 (华为“天才少年”计划)
 * [Kwai Star Special Technical Talent Program, Kuaishou Technology, 2021](https://mp.weixin.qq.com/s/iaD-LH6nAu_ngHp0OShfNw) (快手“快star”特别人才计划)
 * Outstanding Ph.D Graduate, Dept. of Computer Science & Technology, Tsinghua University, 2021
 * Outstanding Ph.D Graduate, Beijing, 2021 (**Top 7 out of 100+ Ph.D Graduates in the CS department**) (北京市优秀毕业生)
 * Selected in "Shuimu Tsinghua Scholar Program", Tsinghua University, 2021 (清华大学“水木学者”计划)
 * Intel Bug Bounty Awards for High-Impact Software Bugs on Tofino Switch, 2021 ($5,000)
-* [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/P58fS1-Gb9dsrpgiV1rzGw) (¥50,000, 1st prize vacancy this year)
+* [2nd prize, 84 Scholarship for Innovations and Future, Tsinghua University, 2020](https://mp.weixin.qq.com/s/kfyZBFqFSi8fBl2Jglcneg) (¥50,000, 1st prize vacancy this year)
 * Tang Lixin Scholarship, Tsinghua University, 2020
 * Souhu Research and Development Scholarship, Tsinghua University, 2019
 * IEEE ICNP Travel Grant, 2019
