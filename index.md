@@ -283,7 +283,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 -->
 
 ## Selected Honors and Awards
-* ACM SIGCOMM China新星奖，2025
+* ACM SIGCOMM China Rising Star Award, 2025 (ACM SIGCOMM China新星奖)
 * 中国高校计算机大赛网络技术挑战赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
 * Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
