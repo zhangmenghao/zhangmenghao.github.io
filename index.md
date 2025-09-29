@@ -38,6 +38,9 @@ Office: C823, New Main Building, Beihang University
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+25. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
+Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment.
+In the 16th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Virtual Conference, November 19-21, 2025 (*CCF-B*)
 24. Haotian Deng, Xuebin Song, __Menghao Zhang#__, Yuan Yang, Mingwei Xu.
 JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling.
 In the 24th ACM Workshop on Hot Topics in Networks (**HotNets**), College Park, Maryland, USA, November 17-18, 2025 (*CCF-C, full paper acceptance ratio: 50/178=28.1%*)
@@ -55,10 +58,10 @@ In Joural of Software, 2025 (*CCF-T1, In Chinese*)
 In the 20th European Conference on Computer Systems (**EuroSys**), Rotterdam, Netherlands, March 30-April 3, 2025 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 85/696=12.2%, top conference in System*)
 19. Xue Li, Cheng Guo, Kun Qian, __Menghao Zhang__, Mengyu Yang, Mingwei Xu.
 [Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training](./papers/SoCC2024-GComp.pdf).
-In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20-22, 2024 (*CCF-B*)
 18. Ziyang Liu, Renyu Yang, Jin Ouyang, Weihan Jiang, Tianyu Ye, __Menghao Zhang__, Sui Huang, Jiaming Huang, Chengru Song, Di Zhang, Tianyu Wo, Chunming Hu.
 [Kale: Elastic GPU Scheduling for Online DL Model Training](./papers/SoCC2024-Kale.pdf).
-In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20th-22nd, 2024 (*CCF-B*)
+In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20-22, 2024 (*CCF-B*)
 17. Ziteng Chen, __Menghao Zhang#__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
 In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
