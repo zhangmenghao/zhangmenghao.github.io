@@ -46,7 +46,7 @@ JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling.
 In the 24th ACM Workshop on Hot Topics in Networks (**HotNets**), College Park, Maryland, USA, November 17-18, 2025 (*CCF-C, full paper acceptance ratio: 50/178=28.1%*)
 23. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/ICNP2025-Themis.pdf).
-In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
+In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
 22. Shicheng Wang, __Menghao Zhang#__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
 [Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance](./papers/SIGCOMM2025-Hawkeye.pdf).
 In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>, <font color='red'>top #1 conference in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
@@ -64,7 +64,7 @@ In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), R
 In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Redmond, WA, USA, November 20-22, 2024 (*CCF-B*)
 17. Ziteng Chen, __Menghao Zhang#__, Guanyu Li, Jiahao Cao, Yang Jing, Mingwei Xu, Renjie Xie, He Liu, Fangzheng Jiao, Xiaohe Hu.
 [Paraleon: Automatic and Adaptive Tuning for DCQCN Parameters in RDMA Networks](./papers/ICNP2024-Paraleon.pdf).
-In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
+In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
 16. Renjie Xie, Jiahao Cao, Yuxi Zhu, Yixiang Zhang, Yi He, Hanyi Peng, Yixiao Wang, Mingwei Xu, Kun Sun, Enhuan Dong, Qi Li, __Menghao Zhang__, Jiang Li.
 [Cactus: Obfuscating Bidirectional Encrypted TCP Traffic at Client Side](./papers/TIFS2024-Cactus.pdf).
 In IEEE Transactions on Information Forensics and Security (**TIFS**), 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
@@ -106,7 +106,7 @@ In IEEE/ACM Transactions on Networking (**TON**), vol. 29, no. 2, pp. 623-636, A
 In the 27th Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-26, 2020 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 88/506=17.4%, top conference in Security*)
 3. Guanyu Li, __Menghao Zhang#__, Chang Liu, Xiao Kong, Ang Chen, Guofei Gu, Haixin Duan. 
 [NetHCF: Enabling Line-rate and Adaptive Spoofed IP Traffic Filtering](./papers/ICNP2019-NetHCF.pdf).
-In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
+In the 27th IEEE International Conference on Network Protocols (**ICNP**), Chicago, Illinois, USA, October 7-10, 2019 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 38/210=18.1%*) [[code](https://github.com/NetHCF/NetHCF/tree/ICNP19)]
 2. __Menghao Zhang__, Jun Bi, Kai Gao, Yi Qiao, Guanyu Li, Xiao Kong, Zhaogeng Li, Hongxin Hu. 
 [Tripod: Towards a Scalable, Efficient and Resilient Cloud Gateway](./papers/JSAC2019-Tripod.pdf). 
 In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, pp. 570-585, March 2019 (*<font color='red'>CCF-A</font>, SCI Impact Factor 11.42, top journal in Communications*) [[code](https://github.com/zhangmenghao/Tripod/tree/master/gateway)]
@@ -215,7 +215,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Research Grants
 * "Research on transmission path optimization for collective communication in heterogeneous interconnected topologies(异构互联拓扑下集合通信算子传输路径决策优化研究)", __PI__, Huawei-Beihang Joint Lab (北航-华为关键软件联合实验室项目TC20220105488-2025-03), 2025.9-2026.9
-* "Research on Runtime Fast Fault Recovery Techniques in LLM Training Scenarios (大模型训练场景下运行时快速故障恢复技术研究)", __PI__, ByteDance (字节跳动合作项目CT20250430105673), 2025.5-2026.5
+<!-- * "Research on Runtime Fast Fault Recovery Techniques in LLM Training Scenarios (大模型训练场景下运行时快速故障恢复技术研究)", __PI__, ByteDance (字节跳动合作项目CT20250430105673), 2025.5-2026.5 -->
 * "Intelligent Computing System for Integration and Optimization of Domestic Heterogeneous Acceleration Cards (面向国产异构加速卡集成与优化的智能计算系统)", Key Member, National Key Research and Development Program (国家重点研发计划2024YFB4505604), 2024.12-2027.11
 <!-- * "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12 -->
 * "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities Under Collective Communications (集合通信场景下RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Huawei-Beihang Joint Lab (北航-华为关键软件联合实验室项目TC20241130020), 2025.1-2025.12
