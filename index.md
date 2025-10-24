@@ -40,7 +40,7 @@ Office: C823, New Main Building, Beihang University
 #### Selected Publications
 26. Ziteng Chen, __Menghao Zhang#__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
 Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds.
-In the 33th Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, February 23-27, 2026 (CCF-A, top conference in Security) [[code](https://github.com/czt8888/janus-bf3)]
+In the 33th Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-27, 2026 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/czt8888/janus-bf3)]
 25. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
 Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment.
 In the 16th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Virtual Conference, November 19-21, 2025 (*CCF-B*)
