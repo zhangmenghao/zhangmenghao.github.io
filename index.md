@@ -42,10 +42,10 @@ Office: C823, New Main Building, Beihang University
 Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds.
 In the 33rd Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-27, 2026 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/czt8888/janus-bf3)]
 25. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
-Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment.
+[Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment](./papers/SoCC2025-Cauchy.pdf).
 In the 16th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Virtual Conference, November 19-21, 2025 (*CCF-B*)
 24. Haotian Deng, Xuebin Song, __Menghao Zhang#__, Yuan Yang, Mingwei Xu.
-JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling.
+[JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling](./papers/HotNets2025-JEEVES.pdf).
 In the 24th ACM Workshop on Hot Topics in Networks (**HotNets**), College Park, Maryland, USA, November 17-18, 2025 (*CCF-C, full paper acceptance ratio: 50/178=28.1%*)
 23. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/ICNP2025-Themis.pdf).
