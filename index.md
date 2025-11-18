@@ -234,6 +234,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 #### Technical Program Committee
 * IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
+* IFIP International Conference on Network and Parallel Computing (NPC), 2024, [2025](https://npc-2025.github.io/committees.html)
+* Workshop on Next-Generation Network Observability (NGNO) (NGNO), [2025](https://conferences.sigcomm.org/sigcomm/2025/workshop/ngno/)
 * ACM Conference on Data and Application Security and Privacy (CODASPY) poster, [2020](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3374664), [2021](https://dl.acm.org/action/showFmPdf?doi=10.1145%2F3422337)
 
 #### Artifact Evaluation Committee
@@ -272,6 +274,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Fangzheng Jiao, Pd.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
 * Jinyi Xia, Pd.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Jiaxun Huang, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Zhikai Zou, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
@@ -281,11 +284,12 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Qiyang Peng, Master, 2025.9-Present, Beihang University
 * Yucheng Li, Master, 2025.9-Present, Beihang University
 * Mengyao Jian, Master, 2025.9-Present, Beihang University
+* Zihan Niu, Master, 2026.9-Present, Beihang University
 * Xuebin Song, Master, 2026.9-Present, Beihang University
 
 
 #### Alumni
-* Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment @Pd.D. student, Rice University
+* Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment@Pd.D. student, Rice University
 -->
 
 ## Selected Honors and Awards
