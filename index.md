@@ -122,7 +122,7 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
-22. Yuanxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
+22. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/SIGCOMM2025-Poster-Vedrfolnir.pdf).
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/CollectiveCommunicationDiagnosis)]
 21. Qiyang Peng, __Menghao Zhang#__, Feiyang Wang, Guanyu Li, Chunming Hu.
