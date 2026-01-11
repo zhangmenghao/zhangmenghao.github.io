@@ -40,7 +40,7 @@ Office: C823, New Main Building, Beihang University
 (# indicates that I am the corresponding author)
 #### Selected Publications
 27. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
-Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications.
+[Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
 In the 45th IEEE International Conference on Computer Communications (**INFOCOM**), Tokyo, Japan, May 18-21, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 329/1740=18.9%*) [[code](https://github.com/Networked-System-and-Security-Group/CollectiveCommunicationDiagnosis)]
 26. Ziteng Chen, __Menghao Zhang__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
 [Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds](./papers/NDSS2026-Janus.pdf).
