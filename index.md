@@ -222,13 +222,14 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Research Grants
+<!-- * "Research on Optimization of AI Network Infrastructure Oriented to DeepSeek MOE Model (面向DeepSeek类MOE模型的AI网络基础设施优化研究)", __PI__, Tencent (腾讯校企合作项目), 2025.12-2016.12 -->
 <!-- * "Research on wide-area RDMA routing and transmission optimization (广域RDMA协议路由传输优化研究)", __PI__, the Open Research Fund of State Key Laboratory of Internet Architecture (互联网体系结构全国重点实验室重点课题HLW2025ZD01), 2025.12-2028.12 -->
 * "Research on the Elastic Migration Capability of Collective Communication in LLM System (大模型系统集合通信弹性迁移能力研究)", __PI__, CCF Ant Research Foundation(CCF-蚂蚁科研基金2025122312790), 2025.12-2026.12
 * "Research on Transmission Path Optimization for Collective Communication in Heterogeneous Interconnected Topologies (异构互联拓扑下集合通信算子传输路径决策优化研究)", __PI__, Huawei-Beihang Joint Lab (北航-华为关键软件联合实验室项目TC20220105488-2025-03), 2025.9-2026.9
 <!-- * "Research on Runtime Fast Fault Recovery Techniques in LLM Training Scenarios (大模型训练场景下运行时快速故障恢复技术研究)", __PI__, ByteDance (字节跳动合作项目CT20250430105673), 2025.5-2026.5 -->
 * "Intelligent Computing System for Integration and Optimization of Domestic Heterogeneous Acceleration Cards (面向国产异构加速卡集成与优化的智能计算系统)", Key Member, National Key Research and Development Program (国家重点研发计划2024YFB4505604), 2024.12-2027.11
 <!-- * "Development of Software Upgrade Version Management for Satellites (星群软件在线升级版本管理研制)", __PI__, Beijing Institute of Control Engineering (北京控制工程研究所), 2025.1-2025.12 -->
-* "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities Under Collective Communications (集合通信场景下RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Huawei-Beihang Joint Lab (异构融合OS技术合作项目TC20241130020), 2025.1-2025.12
+* "Research on Automated Diagnosis Technology for RDMA Network Performance Abnormalities Under Collective Communications (集合通信场景下RDMA⽹络性能异常⾃动化诊断技术研究)", __PI__, Huawei-Beihang Joint Lab (华为异构融合OS技术合作项目TC20241130020), 2025.1-2025.12
 * "Research on Malicious Traffic Detection System Based on Programmable Data Plane (基于可编程数据平面的恶意流量检测系统研究)", __PI__, National Natural Science Foundation of China (国家自然科学基金青年项目62402025), 2025.1-2027.12
 * "Research on Fast Fault Recovery and Communication Recovery Technologies for Large-scale AI Training Clusters (面向大规模AI训练集群的快速故障恢复与通信恢复技术研究)", __PI__, Huawei-Beihang Joint Lab (华为-北航关键软件联合实验室项目TC20220105488-2024-02), 2024.8-2025.7
 * "Migration and Verification of Open Source LLMs to Domestic Software and Hardware (国产开源大模型向国产软硬件的迁移验证)", __Co-PI__, Beijing Science and Technology Plan Project (北京市科技计划项目Z231100010323013), 2024.5-2025.12
