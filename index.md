@@ -124,7 +124,7 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 #### Others
 23. Bohua Xu, Qi Xin, Xiongyan Tang, Chang Cao, Dongyue Zhang, Xiaohe Hu, Lexi Xu, Xiaoxiang Wang, __Menghao Zhang__.
 Cross-Data Center Training with Heterogeneous Accelerators: Protocols and Evaluation.
-In IEEE International Conference on Communications (**ICC**), Glasgow, Scotland, UK, May 24-28, 2026
+In IEEE International Conference on Communications (**ICC**), Glasgow, Scotland, UK, May 24-28, 2026 (*CCF-C*)
 22. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/SIGCOMM2025-Poster-Vedrfolnir.pdf).
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/CollectiveCommunicationDiagnosis)]
