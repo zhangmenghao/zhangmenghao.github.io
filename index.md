@@ -13,7 +13,7 @@ Before joining in Beihang, I was a Joint Post-Doctoral Researcher at Department 
 I got my Ph.D. Degree at Department of Computer Science and Technology, Tsinghua University in Jun., 2021 under the supervision of [Prof. Jianping Wu](https://www.tsinghua.edu.cn/info/1166/93896.htm) and [Prof. Mingwei Xu](https://scholar.google.com/citations?user=xL6zuCMAAAAJ&hl=zh-CN), and got my B.S. Degree at Department of Computer Science and Technology, Tsinghua University in Jul., 2016.
 From Feb., 2019 to Jul. 2019, I worked as a visiting scholar at Department of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
 
-Broadly, I mainly engaged in cutting-edge research in the fields of __programmable networks, high-performance networks, networked systems and network security__, with a long-term focus on enhancing the efficiency, security and reliability of networked systems in the face of rapidly growing network traffic and multifaceted application demands. 
+Broadly, I mainly engaged in cutting-edge research in the fields of __computer networks, networked systems, LLM systems and network security__, with a long-term focus on enhancing the efficiency, security and reliability of networked systems in the face of rapidly growing network traffic and multifaceted application demands, especially in this exciting era of artificial general intelligence.
 Over the course of my career, I have published over 40 papers in esteemed conferences and journals such as SIGCOMM, NSDI, EuroSys, NDSS, Security, INFOCOM, ICNP, RAID, SoCC, HotNets, JSAC, TON, TDSC, TIFS, TPDS, with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
 * Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
 * High-Performance Networking (e.g., RDMA, SmartNIC, DPU);
@@ -27,7 +27,7 @@ Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
 
 Office: C823, New Main Building, Beihang University
 
-**<font color='red'>I am looking for self-motivated students with strong programming skills to work with me. If you are interested, feel free to contact me with email.</font>**
+**<font color='red'>I am looking for self-motivated and fully-devoted students to closely work with me. If you are interested, feel free to contact me with email.</font>**
 
 
 ## News
