@@ -17,7 +17,7 @@ Broadly, I mainly engaged in cutting-edge research in the fields of __computer n
 Over the course of my career, I have published over 40 papers in esteemed conferences and journals such as SIGCOMM, NSDI, EuroSys, NDSS, Security, INFOCOM, ICNP, RAID, SoCC, HotNets, JSAC, TON, TDSC, TIFS, TPDS, with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
 * Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
 * High-Performance Networking (e.g., RDMA, SmartNIC, DPU);
-* Distributed system for LLM (e.g., CXL, OCS, NCCL, Megatron/DeepSpeed, TensorRT-LLM);
+* Distributed system for LLM (e.g., NCCL, LLM Training/Inference Systems);
 * AI-driven network security and networked systems.
 
 
@@ -26,6 +26,8 @@ My official bio in Chinese maintained by Beihang University can be found here [ä
 Email: **zhangmenghao0503@gmail.com** or **zhangmenghao@buaa.edu.cn**
 
 Office: C823, New Main Building, Beihang University
+
+Group Github: [https://github.com/Networked-System-and-Security-Group](https://github.com/Networked-System-and-Security-Group)
 
 **<font color='red'>I am looking for self-motivated and fully-devoted students to closely work with me. If you are interested, feel free to contact me with email.</font>**
 
