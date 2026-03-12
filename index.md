@@ -35,8 +35,8 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## News
 * 2025.12 课题组成员牛梓涵同学获得九号公司奖学金一等奖，并获10000元奖励！
 * 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络挑战赛三等奖，并获10000元奖励！
-* 2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
-* 2025.7 课题组成员王飞阳、宋学斌、彭启阳同学获得中国高校计算机大赛网络技术挑战赛华北赛区二等奖！
+* 2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛第十届网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
+* 2025.7 课题组成员王飞阳、宋学斌、彭启阳同学获得中国高校计算机大赛第十届网络技术挑战赛华北赛区二等奖！
 * 2025.6 课题组成员牛梓涵同学获得北航第三十五届“冯如杯”竞赛主赛道二等奖！
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
@@ -312,7 +312,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Selected Honors and Awards
 * ACM SIGCOMM China Rising Star Award, 2025 (ACM SIGCOMM China新星奖)
-* 中国高校计算机大赛网络技术挑战赛优秀指导教师奖，2025
+* 中国高校计算机大赛第十届网络技术挑战赛总决赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
 * Personal Rock Award, Dept. of Basic Technology, Kuaishou Technology, 2022
 * Selected in "Talented Youth Program", Huawei, 2022 (华为“天才少年”计划)
