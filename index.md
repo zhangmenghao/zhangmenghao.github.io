@@ -42,24 +42,30 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
-27. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
+29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
+[HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication](.).
+In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](.)]
+28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
 In the 45th IEEE International Conference on Computer Communications (**INFOCOM**), Tokyo, Japan, May 18-21, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 329/1740=18.9%*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir)]
-26. Ziteng Chen, __Menghao Zhang__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
+27. Ziteng Chen, __Menghao Zhang__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
 [Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds](./papers/NDSS2026-Janus.pdf).
 In the 33rd Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-27, 2026 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/czt8888/janus-bf3)]
-25. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
+26. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
 [Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment](./papers/SoCC2025-Cauchy.pdf).
 In the 16th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Virtual Conference, November 19-21, 2025 (*CCF-B*)
-24. Haotian Deng, Xuebin Song, __Menghao Zhang#__, Yuan Yang, Mingwei Xu.
+25. Haotian Deng, Xuebin Song, __Menghao Zhang#__, Yuan Yang, Mingwei Xu.
 [JEEVES: The Valet Who Masters the Art of Cross-DC Training Scheduling](./papers/HotNets2025-JEEVES.pdf).
 In the 24th ACM Workshop on Hot Topics in Networks (**HotNets**), College Park, Maryland, USA, November 17-18, 2025 (*CCF-C, full paper acceptance ratio: 50/178=28.1%*)
-23. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
+24. Zihan Niu, __Menghao Zhang#__, Jue Zhang, Renjie Xie, Yuan Yang, Xiaohe Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/ICNP2025-Themis.pdf).
 In the 33rd IEEE International Conference on Network Protocols (**ICNP**), Seoul, South Korea, September 22-25, 2025 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 60/238=25.2%*) [[code](https://github.com/Networked-System-and-Security-Group/Themis)]
-22. Shicheng Wang, __Menghao Zhang#__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
+23. Shicheng Wang, __Menghao Zhang#__, Xiao Li, Qiyang Peng, Haoyuan Yu, Zhiliang Wang, Mingwei Xu, Xiaohe Hu, Jiahai Yang, Xingang Shi.
 [Hawkeye: Diagnosing RDMA Network Performance Anomalies with PFC Provenance](./papers/SIGCOMM2025-Hawkeye.pdf).
 In the 39th ACM Special Interest Group on Data Communication (**SIGCOMM**), Coimbra, Portugal, September 8-11, 2025 (*<font color='red'>CCF-A</font>, <font color='red'>top #1 conference in Computer Networks</font>*) [[code](https://github.com/wangshicheng1225/Hawkeye)]
+22. Jinyi Xia, __Menghao Zhang#__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
+[Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner](./papers/APNet2025-Mnemosyne.pdf).
+In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
 21. Zhikai Zou, __Menghao Zhang#__, Guanyu Li, Renyu Yang, Tianyu Wo, Chunming Hu, Mingwei Xu.
 [Research Advances in Programmable Switches Driven Network Security (基于可编程交换机的网络安全研究进展)](./papers/基于可编程交换机的网络安全研究进展.pdf).
 In Joural of Software, 2025 (*CCF-T1, In Chinese*)
@@ -125,18 +131,15 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
-23. Bohua Xu, Qi Xin, Xiongyan Tang, Chang Cao, Dongyue Zhang, Xiaohe Hu, Lexi Xu, Xiaoxiang Wang, __Menghao Zhang__.
+22. Bohua Xu, Qi Xin, Xiongyan Tang, Chang Cao, Dongyue Zhang, Xiaohe Hu, Lexi Xu, Xiaoxiang Wang, __Menghao Zhang__.
 Cross-Data Center Training with Heterogeneous Accelerators: Protocols and Evaluation.
 In IEEE International Conference on Communications (**ICC**), Glasgow, Scotland, UK, May 24-28, 2026 (*CCF-C*)
-22. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
+21. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/SIGCOMM2025-Poster-Vedrfolnir.pdf).
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/CollectiveCommunicationDiagnosis)]
-21. Qiyang Peng, __Menghao Zhang#__, Feiyang Wang, Guanyu Li, Chunming Hu.
+20. Qiyang Peng, __Menghao Zhang#__, Feiyang Wang, Guanyu Li, Chunming Hu.
 [Astraea: Enforcing DPU Performance Isolation in Public Clouds](./papers/SIGCOMM2025-Poster-Astraea.pdf).
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/Astraea)]
-20. Jinyi Xia, __Menghao Zhang#__, Jiaxun Huang, Yuezheng Liu, Xiaohe Hu, Xudong Liu, Chunming Hu.
-[Mnemosyne: Lightweight and Fast Error Recovery for LLM Training in a Just-In-Time Manner](./papers/APNet2025-Mnemosyne.pdf).
-In the 9th Asia-Pacific Workshop on Networking (**APNet**), Shanghai, China, August 7-8, 2025 (*CCF-C, full paper acceptance ratio: 34/133=25.6%*) [[code](https://github.com/Networked-System-and-Security-Group/Mnemosyne)]
 19. Yuyan Zhao, __Menghao Zhang#__, Tianyu Wo, Renyu Yang, Chunming Hu.
 [BTDefense: A Priority-Aware Adaptive Strategy Against the Block Table Overflow Attack in vLLM](./papers/SOSP2024-Poster-BTDefense.pdf).
 In **SOSP** Poster, Hilton Austin, Texas, USA, November 4–6, 2024
