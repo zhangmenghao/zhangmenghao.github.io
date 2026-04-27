@@ -43,8 +43,8 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 (# indicates that I am the corresponding author)
 #### Selected Publications
 29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
-[HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication](.).
-In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](.)]
+HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication.
+In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [code]
 28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
 In the 45th IEEE International Conference on Computer Communications (**INFOCOM**), Tokyo, Japan, May 18-21, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 329/1740=18.9%*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir)]
