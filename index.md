@@ -42,6 +42,9 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+30. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
+Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters.
+In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
 29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
 HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication.
 In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [code]
