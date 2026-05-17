@@ -255,7 +255,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Professional Services
 #### Technical Program Committee
-* IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee), 2026
+* IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee), [2026](https://iwqos2026.ieee-iwqos.org/committees)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
 * IFIP International Conference on Network and Parallel Computing (NPC), 2024, [2025](https://npc-2025.github.io/committees.html)
 * ACM SIGOPS China Workshop on Computer Systems (ChinaSys), [2025](https://cnsys-2025winter.jlu.edu.cn/organizers.htm)
