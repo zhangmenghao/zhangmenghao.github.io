@@ -47,7 +47,7 @@ Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
 29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
 HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication.
-In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [code]
+In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
 28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
 In the 45th IEEE International Conference on Computer Communications (**INFOCOM**), Tokyo, Japan, May 18-21, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 329/1740=18.9%*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir)]
