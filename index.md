@@ -14,7 +14,7 @@ I got my Ph.D. Degree at Department of Computer Science and Technology, Tsinghua
 From Feb., 2019 to Jul. 2019, I worked as a visiting scholar at Department of Computer Science and Engineering, Texas A&M University, under the supervision of [Prof. Guofei Gu](http://faculty.cs.tamu.edu/guofei/).
 
 Broadly, I mainly engaged in cutting-edge research in the fields of __computer networks, networked systems, LLM systems and network security__, with a long-term focus on enhancing the efficiency, security and reliability of networked systems in the face of rapidly growing network traffic and multifaceted application demands, especially in this exciting era of artificial general intelligence.
-Over the course of my career, I have published over 40 papers in esteemed conferences and journals such as SIGCOMM, NSDI, EuroSys, NDSS, Security, INFOCOM, ICNP, RAID, SoCC, HotNets, JSAC, TON, TDSC, TIFS, TPDS, with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
+Over the course of my career, I have published over 40 papers in esteemed conferences and journals such as SIGCOMM, NSDI, EuroSys, NDSS, Security, INFOCOM, ICNP, RAID, ICDCS, SoCC, HotNets, JSAC, TON, TDSC, TIFS, TPDS, with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
 * Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
 * High-Performance Networking (e.g., RDMA, SmartNIC, DPU);
 * Distributed system for LLM (e.g., NCCL, LLM Training/Inference Systems);
@@ -33,6 +33,7 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 
 
 ## News
+* 2025.6 课题组成员张家文同学获得北航第三十六届“冯如杯”竞赛主赛道二等奖！
 * 2025.12 课题组成员牛梓涵同学获得九号公司奖学金一等奖，并获10000元奖励！
 * 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络挑战赛三等奖，并获10000元奖励！
 * 2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛第十届网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
@@ -43,10 +44,10 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 (# indicates that I am the corresponding author)
 #### Selected Publications
 30. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
-Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters.
+[Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
 29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
-HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication.
+[HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication](./papers/APNet2026-HyLink.pdf).
 In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
 28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
