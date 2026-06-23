@@ -43,9 +43,9 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
-31. Mingjun Zhang, Xiaohe Hu, __Menghao Zhang#__, Ziteng Chen, Yanmin Jia, Yan Zhang, Da Liu, Qing Chen, Fangzheng Jiao, Jun Chen, He Liu, Aohan Zeng, Shuaixing Duan, Ruya Gu, Yang Jing, Bowen Han, Wei Chen, Wenqi Xie, Jinlong Hou, Yuan Cheng, Hongzhou Zhang, Bohua Xu, Mingwei Xu, Chunming Hu.
+31. Mingjun Zhang, Xiaohe Hu, __Menghao Zhang#__, Ziteng Chen, Yanmin Jia, Yan Zhang, Da Liu, Qing Chen, Fangzheng Jiao, Jun Chen, He Liu, Aohan Zeng, Shuaixing Duan, Ruya Gu, Yang Jing, Bowen Han, Wei Chen, Wenqi Xie, Jinlong Hou, Yuan Cheng, Hongzhou Zhang, Bohua Xu, Mingwei Xu, Chunming Hu. [[code](https://github.com/sii-research/Megatrace)]
 [An Efficient, Reliable and Observable Collective Communication Library in Large-scale GPU Training Clusters](https://arxiv.org/pdf/2510.00991).
-arXiv preprint arXiv:2510.00991. 2025 Oct 1.
+arXiv preprint arXiv:2510.00991, Oct. 1, 2025 [[code](https://github.com/sii-research/VCCL/)]
 30. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
 [Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
