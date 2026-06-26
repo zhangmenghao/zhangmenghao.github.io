@@ -240,6 +240,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Research Grants
+<!-- * "Research on Optimization of AI Network Infrastructure Oriented to DeepSeek MoE Model (面向DeepSeek类MoE模型的AI网络基础设施优化研究)", __PI__, Tencent (腾讯校企合作项目), 2025.12-2016.12 -->
 <!-- * Research on Automated Diagnosis Technology for Performance Abnormalities in Collective Communication Library (异构混训场景下集合通信库性能异常自动化诊断技术)", __PI__, Huawei-Beihang Joint Lab (华为异构融合OS技术合作项目TC20251209030), 2026.1-2026.12 -->
 <!-- * "Research on Optimization of AI Network Infrastructure Oriented to DeepSeek MOE Model (面向DeepSeek类MOE模型的AI网络基础设施优化研究)", __PI__, Tencent (腾讯校企合作项目), 2025.12-2016.12 -->
 * "Research on wide-area RDMA routing and transmission optimization (广域RDMA协议路由传输优化研究)", __PI__, the Open Research Fund of State Key Laboratory of Internet Architecture (互联网体系结构全国重点实验室重点课题HLW2025ZD01), 2025.12-2028.12
