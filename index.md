@@ -50,7 +50,8 @@ arXiv preprint arXiv:2510.00991, October 1, 2025 [[code](https://github.com/sii-
 [Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
 29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
-[HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication](./papers/APNet2026-HyLink.pdf).
+HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication.
+<!-- (./papers/APNet2026-HyLink.pdf). -->
 In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
 28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
@@ -138,12 +139,15 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+23. Jingyuan Zhu, __Menghao Zhang#__, Yuxuan Chen.
+Weaver: Diagnosing Extra Kernel and Synchronization Interference in GPU Workloads.
+In **SIGCOMM** Posters and Demos, Denver, Colorado, USA, August 17-21, 2026 [[code](https://github.com/Networked-System-and-Security-Group/Weaver)]
 22. Bohua Xu, Qi Xin, Xiongyan Tang, Chang Cao, Dongyue Zhang, Xiaohe Hu, Lexi Xu, Xiaoxiang Wang, __Menghao Zhang__.
 Cross-Data Center Training with Heterogeneous Accelerators: Protocols and Evaluation.
 In IEEE International Conference on Communications (**ICC**), Glasgow, Scotland, UK, May 24-28, 2026 (*CCF-C*)
 21. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/SIGCOMM2025-Poster-Vedrfolnir.pdf).
-In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/CollectiveCommunicationDiagnosis)]
+In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir)]
 20. Qiyang Peng, __Menghao Zhang#__, Feiyang Wang, Guanyu Li, Chunming Hu.
 [Astraea: Enforcing DPU Performance Isolation in Public Clouds](./papers/SIGCOMM2025-Poster-Astraea.pdf).
 In **SIGCOMM** Posters and Demos, Coimbra, Portugal, September 8-11, 2025 [[code](https://github.com/Networked-System-and-Security-Group/Astraea)]
