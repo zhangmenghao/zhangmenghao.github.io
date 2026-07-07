@@ -51,7 +51,7 @@ VenusSim: Torch-level Execution Trace Simulator for LLM Training.
 In the World Artificial Intelligence Conference Academic (**WAICA**), Shanghai, China, July 18-20, 2026 [[code](https://github.com/Infrawaves/VenusSim)]
 31. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
 Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study.
-In the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE**), Munich, Germany, October 12–16, 2026 (*<font color='red'>CCF-A</font>, Industry Showcase Track, full paper acceptance ratio: 72/194=39%*)
+In the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE**), Munich, Germany, October 12-16, 2026 (*<font color='red'>CCF-A</font>, Industry Showcase Track, full paper acceptance ratio: 72/194=39%*)
 30. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
 [Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
