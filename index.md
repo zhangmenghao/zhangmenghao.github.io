@@ -46,9 +46,6 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 32. Mingjun Zhang, Xiaohe Hu, __Menghao Zhang#__, Ziteng Chen, Yanmin Jia, Yan Zhang, Da Liu, Qing Chen, Fangzheng Jiao, Jun Chen, He Liu, Aohan Zeng, Shuaixing Duan, Ruya Gu, Yang Jing, Bowen Han, Wei Chen, Wenqi Xie, Jinlong Hou, Yuan Cheng, Hongzhou Zhang, Bohua Xu, Mingwei Xu, Chunming Hu.
 [An Efficient, Reliable and Observable Collective Communication Library in Large-scale GPU Training Clusters](https://arxiv.org/pdf/2510.00991).
 arXiv preprint arXiv:2510.00991, October 1, 2025 [[code](https://github.com/sii-research/VCCL/)]
-<!-- 32. Qing Chen, Qi Xin, __Menghao Zhang#__, Yanmin Jia, Ruya Gu, Xiaohe Hu, Xiaoxiang Wang, Jinlong Hou, Hongzhou Zhang.
-VenusSim: Torch-level Execution Trace Simulator for LLM Training.
-In the World Artificial Intelligence Conference Academic (**WAICA**), Shanghai, China, July 18-20, 2026 (full paper acceptance ratio: 58/282 = 20.57%) [[code](https://github.com/Infrawaves/VenusSim)] -->
 31. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
 Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study.
 In the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE**), Munich, Germany, October 12-16, 2026 (*<font color='red'>CCF-A</font>, Industry Showcase Track, full paper acceptance ratio: 72/194=39%*)
@@ -219,6 +216,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 
 ## Patents
+* 张梦豪,宋学斌,刘岳征,沈俊儿,郝明哲,胡春明,刘旭东. 一种基于PCIe链路与专用互连链路协同传输的集合通信方法及系统[P]. 202611051754.9, 2026-07-15
 * 张梦豪,彭启阳,王飞阳. 一种细粒度轻量级的DPU性能隔离方法[P]. 202610077653.2, 2026-01-26.
 * 张梦豪,陈雨璇,祝境远,焦方正,胡春明. 一种集合通信下RDMA网络性能异常诊断方法[P]. 202610077447.1, 2026-01-21.
 * 张梦豪,彭启阳,王士诚. 一种基于PFC溯源的RDMA网络性能异常诊断方法[P]. 202511333218.3, 2026-01-06.
