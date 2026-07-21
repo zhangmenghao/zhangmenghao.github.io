@@ -313,8 +313,6 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Jinyi Xia, Pd.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
-* Jiaxun Huang, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
-* Zhikai Zou, Master, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
 * Yuezheng Liu, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Xudong Liu
 * Yuxuan Chen, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
@@ -328,9 +326,12 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 #### Alumni
 * Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment@Pd.D. student, Rice University
+* Jiaxun Huang, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Chunming Hu
+* Zhikai Zou, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Tianyu Wo
 -->
 
 ## Selected Honors and Awards
+* Youth Talent Support Project of the High-Level Innovation Talent Plan, Beijing, 2026 (高创计划·青年人才托举工程)
 * ACM SIGCOMM China Rising Star Award, 2025 (ACM SIGCOMM China新星奖)
 * 中国高校计算机大赛第十届网络技术挑战赛总决赛优秀指导教师奖，2025
 * Outstanding Young Scholar, Beihang University, 2024 (北航“卓越青年学者”)
@@ -362,10 +363,10 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 ## Useful Links
 
 * [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
-* [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Conference Ranking by Chinese Computer Federation (CCF)](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 * [Conference Ranking by Department of Computer Science and Technology, Tsinghua University (TH-CPL)](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 * [Top 4 Security Conference Statistic](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
+* [Conference H5-Index in Computer Science](https://www.aminer.cn/ranks/conf) (AMiner)
 * [Computer Security Conference Statistics](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) (By Dr. Guofei Gu)
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html) (By Dr. Jianying Zhou)
 * [Normalized Top-100 Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_ntop100.html) (By Dr. Konrad Rieck)
