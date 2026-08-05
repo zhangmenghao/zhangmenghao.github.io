@@ -270,6 +270,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 ## Professional Services
 #### Technical Program Committee
+* IEEE International Conference on Computer Communications (INFOCOM), 2027
 * IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee), [2026](https://iwqos2026.ieee-iwqos.org/committees)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
 * IFIP International Conference on Network and Parallel Computing (NPC), 2024, [2025](https://npc-2025.github.io/committees.html)
@@ -307,18 +308,19 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Teaching Assistant, Internet Routing Algorithms and Protocols, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 
-<!--
-## Students
+
+<!-- ## Students
 #### Current Member
 * Yuyan Zhao, Ph.D. student, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Fangzheng Jiao, Pd.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
 * Jinyi Xia, Pd.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Jue Zhang, Ph.D. student, 2025.9-Present, Beihang University
 * Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Xiaolong Xiang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
 * Yuezheng Liu, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Xudong Liu
 * Yuxuan Chen, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
-* Jue Zhang, Master, 2025.9-Present, Beihang University
 * Qiyang Peng, Master, 2025.9-Present, Beihang University
 * Yucheng Li, Master, 2025.9-Present, Beihang University
 * Mengyao Jian, Master, 2025.9-Present, Beihang University
@@ -328,9 +330,9 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 
 #### Alumni
 * Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment@Pd.D. student, Rice University
-* Jiaxun Huang, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Chunming Hu
-* Zhikai Zou, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Tianyu Wo
--->
+* Jiaxun Huang, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Chunming Hu, first employment@Tencent
+* Zhikai Zou, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Tianyu Wo, first employment@Alibaba
+ -->
 
 ## Selected Honors and Awards
 * Youth Talent Support Project of the High-Level Innovation Talent Plan, Beijing, 2026 (高创计划·青年人才托举工程)
