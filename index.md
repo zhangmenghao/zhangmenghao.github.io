@@ -146,7 +146,7 @@ In the 21st International Symposium on Research in Attacks, Intrusions and Defen
 
 #### Others
 23. Jingyuan Zhu, __Menghao Zhang#__, Yuxuan Chen.
-Weaver: Diagnosing Extra Kernel and Synchronization Interference in GPU Workloads.
+[Weaver: Diagnosing Extra Kernel and Synchronization Interference in GPU Workloads](./papers/SIGCOMM2026-Poster-Weaver.pdf).
 In **SIGCOMM** Posters and Demos, Denver, Colorado, USA, August 17-21, 2026 [[code](https://github.com/Networked-System-and-Security-Group/Weaver)]
 22. Bohua Xu, Qi Xin, Xiongyan Tang, Chang Cao, Dongyue Zhang, Xiaohe Hu, Lexi Xu, Xiaoxiang Wang, __Menghao Zhang__.
 Cross-Data Center Training with Heterogeneous Accelerators: Protocols and Evaluation.
