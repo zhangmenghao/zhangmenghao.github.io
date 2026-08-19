@@ -44,30 +44,30 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
-33. Mingjun Zhang, Xiaohe Hu, __Menghao Zhang#__, Ziteng Chen, Yanmin Jia, Yan Zhang, Da Liu, Qing Chen, Fangzheng Jiao, Jun Chen, He Liu, Aohan Zeng, Shuaixing Duan, Ruya Gu, Yang Jing, Bowen Han, Wei Chen, Wenqi Xie, Jinlong Hou, Yuan Cheng, Hongzhou Zhang, Bohua Xu, Mingwei Xu, Chunming Hu.
-[An Efficient, Reliable and Observable Collective Communication Library in Large-scale GPU Training Clusters](https://arxiv.org/pdf/2510.00991).
-arXiv preprint arXiv:2510.00991, October 1, 2025 [[code](https://github.com/sii-research/VCCL/)]
-33. Xuebin Song, __Menghao Zhang#__, Yuezheng Liu, Jinyi Xia, Shucan Yang, Xiaohe Hu, Chunming Hu, Mingwei Xu.
+34. Xuebin Song, __Menghao Zhang#__, Yuezheng Liu, Jinyi Xia, Shucan Yang, Xiaohe Hu, Chunming Hu, Mingwei Xu.
 Collective Communication for Distributed LLM Systems: Planning, Runtime Adaptation, and Computation Coordination.
 In IEEE Network Magazine, 2026 (*SCI Impact Factor: 8.8*)
-32. Jue Zhang, __Menghao Zhang#__, Zihan Niu, Bo Peng, Shucan Yang, Xiaohe Hu.
+33. Jue Zhang, __Menghao Zhang#__, Zihan Niu, Bo Peng, Shucan Yang, Xiaohe Hu.
 GRC: Extending RDMA to Wide-Area Networks via Gateway-Mediated Rate Control.
 In the 34rd IEEE International Conference on Network Protocols (**ICNP**), Tempe, Arizona, USA, October 05-08, 2026 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 67/277=24.2%*) [[code](https://github.com/Networked-System-and-Security-Group/GRC)]
-31. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
+32. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
 Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study.
 In the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE**), Munich, Germany, October 12-16, 2026 (*<font color='red'>CCF-A</font>, Industry Showcase Track, full paper acceptance ratio: 72/194=39%*)
-30. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
+31. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
 [Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
 In the 46th IEEE International Conference on Distributed Computing Systems (**ICDCS**), Seoul, South Korea, June 22-25, 2026 (*CCF-B, full paper acceptance ratio: 18.59%*) [[code](https://github.com/sii-research/Megatrace)]
-29. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
+30. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
 [HyLink: Harnessing PCIe and Dedicated Interconnects for Efficient Collective Communication](./papers/APNet2026-HyLink.pdf).
 In the 10th Asia-Pacific Workshop on Networking (**APNet**), Singapore, August 6–7, 2026 (*CCF-C, full paper acceptance ratio: 39/147=26.5%*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
-28. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
+29. Yuxuan Chen, __Menghao Zhang#__, Xiheng Li, Fangzheng Jiao, Xiao Li, Jiaxun Huang, Shicheng Wang, Chunming Hu.
 [Vedrfolnir: RDMA Network Performance Anomalies Diagnosis in Collective Communications](./papers/INFOCOM2026-Vedrfolnir.pdf).
 In the 45th IEEE International Conference on Computer Communications (**INFOCOM**), Tokyo, Japan, May 18-21, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 329/1740=18.9%*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir)]
-27. Ziteng Chen, __Menghao Zhang__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
+28. Ziteng Chen, __Menghao Zhang__, Jiahao Cao, Xuzheng Chen, Qiyang Peng, Shicheng Wang, Guanyu Li, Mingwei Xu.
 [Janus: Enabling Expressive and Efficient ACLs in High-speed RDMA Clouds](./papers/NDSS2026-Janus.pdf).
 In the 33rd Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 23-27, 2026 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/czt8888/janus-bf3)]
+27. Mingjun Zhang, Xiaohe Hu, __Menghao Zhang#__, Ziteng Chen, Yanmin Jia, Yan Zhang, Da Liu, Qing Chen, Fangzheng Jiao, Jun Chen, He Liu, Aohan Zeng, Shuaixing Duan, Ruya Gu, Yang Jing, Bowen Han, Wei Chen, Wenqi Xie, Jinlong Hou, Yuan Cheng, Hongzhou Zhang, Bohua Xu, Mingwei Xu, Chunming Hu.
+[An Efficient, Reliable and Observable Collective Communication Library in Large-scale GPU Training Clusters](https://arxiv.org/pdf/2510.00991).
+arXiv preprint arXiv:2510.00991, October 1, 2025 [[code](https://github.com/sii-research/VCCL/)]
 26. Yihui Zhang, Han Shen, Renyu Yang, Di Tian, Yuxi Luo, __Menghao Zhang__, Li Li, Chunming Hu, Tianyu Wo, Chengru Song, Jin Ouyang.
 [Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment](./papers/SoCC2025-Cauchy.pdf).
 In the 16th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Virtual Conference, November 19-21, 2025 (*CCF-B*)
@@ -314,7 +314,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Teaching Assistant, Internet Architecture and Security Foundation, Tsinghua University, Autumn 2017, worked with [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
 
 
-<!-- ## Students
+## Students
 #### Current Member
 * Yuyan Zhao, Ph.D. student, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Fangzheng Jiao, Pd.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
@@ -337,7 +337,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Rixin Liu, Undergraduate @South China University of Technology, 2024.6-2025.2, first employment@Pd.D. student, Rice University
 * Jiaxun Huang, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Chunming Hu, first employment@Tencent
 * Zhikai Zou, Master, 2023.9-2026.6, Beihang University, Co-supervised with Prof. Tianyu Wo, first employment@Alibaba
- -->
+
 
 ## Selected Honors and Awards
 * Youth Talent Support Project of the High-Level Innovation Talent Plan, Beijing, 2026 (高创计划·青年人才托举工程)
