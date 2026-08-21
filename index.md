@@ -44,6 +44,9 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+35. Junhong Liu, Yitang Yang, Xiaoyang Sun, Jiapeng Chen, Fangzheng Li, Zheng Zheng, __Menghao Zhang__, Tianyu Wo, Chunming Hu, Chengru Song, Jin Ouyang, Renyu Yang.
+AdaptCP: Hotness-Aware Adaptive Checkpointing for Industry-Scale Recommendation Model Training.
+In the European Conference on Computer Systems (**EuroSys**), Rabat, Morocco, April 19-23, 2027 (*<font color='red'>CCF-A</font>, top conference in System*)
 34. Xuebin Song, __Menghao Zhang#__, Yuezheng Liu, Jinyi Xia, Shucan Yang, Xiaohe Hu, Chunming Hu, Mingwei Xu.
 Collective Communication for Distributed LLM Systems: Planning, Runtime Adaptation, and Computation Coordination.
 In IEEE Network Magazine, 2026 (*SCI Impact Factor: 8.8*)
