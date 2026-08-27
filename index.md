@@ -278,7 +278,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 ## Professional Services
 #### Technical Program Committee
 * USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2027
-* IEEE International Conference on Computer Communications (INFOCOM), 2027
+* IEEE International Conference on Computer Communications (INFOCOM), [2027](https://infocom2027.ieee-infocom.org/committees)
 * IEEE/ACM International Symposium on Quality of Service (IWQoS), [2025](https://iwqos2025.ieee-iwqos.org/committees/technical-program-committee), [2026](https://iwqos2026.ieee-iwqos.org/committees)
 * IEEE International Conference on Computer Communications and Networks (ICCCN), [2021](http://www.icccn.org/icccn21/committeesandtracks/technical-tracks/track7.html)
 * IFIP International Conference on Network and Parallel Computing (NPC), 2024, [2025](https://npc-2025.github.io/committees.html)
