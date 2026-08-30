@@ -44,6 +44,9 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+36. Junchen Pan, Kunpeng He, Shengnan Liu, __Menghao Zhang__, Hu Xie, Lei Zhang, Yong Cui.
+NetSynergy: Mitigating Application-layer DDoS via Adaptive Access-Backbone Collaboration.
+In the 33rd ACM Conference on Computer and Communications Security (**CCS**), Hague, Netherlands, November 15-19, 2026 (*<font color='red'>CCF-A</font>, top conference in Security*)
 35. Junhong Liu, Yitang Yang, Xiaoyang Sun, Jiapeng Chen, Fangzheng Li, Zheng Zheng, __Menghao Zhang__, Tianyu Wo, Chunming Hu, Chengru Song, Jin Ouyang, Renyu Yang.
 AdaptCP: Hotness-Aware Adaptive Checkpointing for Industry-Scale Recommendation Model Training.
 In the European Conference on Computer Systems (**EuroSys**), Rabat, Morocco, April 19-23, 2027 (*<font color='red'>CCF-A</font>, top conference in System*)
