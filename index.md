@@ -57,7 +57,7 @@ In IEEE Network Magazine, 2026 (*SCI Impact Factor: 8.8*)
 [GRC: Extending RDMA to Wide-Area Networks via Gateway-Mediated Rate Control](./papers/ICNP2026-GRC.pdf).
 In the 34rd IEEE International Conference on Network Protocols (**ICNP**), Tempe, Arizona, USA, October 05-08, 2026 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 67/277=24.2%*) [[code](https://github.com/Networked-System-and-Security-Group/GRC)]
 32. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
-Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study.
+[Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study](./papers/ASE2026-ETPR.pdf).
 In the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE**), Munich, Germany, October 12-16, 2026 (*<font color='red'>CCF-A</font>, Industry Showcase Track, full paper acceptance ratio: 72/194=39%*)
 31. Fangzheng Jiao, __Menghao Zhang#__, Bolin Chen, Jiaxun Huang, Yanmin Jia, Xiaohe Hu, Bohua Xu, Bowen Han, Chunming Hu.
 [Megatrace:Troubleshooting Hang and Slowdown in Large-scale LLM Training Clusters](./papers/ICDCS2026-Megatrace.pdf).
@@ -329,6 +329,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Xiaolong Xiang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Xiangxi Ma, Ph.D. student, 2027.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
 * Yuezheng Liu, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Xudong Liu
 * Yuxuan Chen, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
@@ -337,6 +338,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Mengyao Jian, Master, 2025.9-Present, Beihang University
 * Zihan Niu, Master, 2026.9-Present, Beihang University
 * Xuebin Song, Master, 2026.9-Present, Beihang University
+* Yizhuo Liang, Master, 2027.9-Present, Beihang University
+* Ruyao Yu, Master, 2027.9-Present, Beihang University
 
 
 #### Alumni
