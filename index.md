@@ -17,7 +17,7 @@ Broadly, I mainly engaged in cutting-edge research in the fields of __computer n
 Over the course of my career, I have published over 50 papers in esteemed conferences and journals such as SIGCOMM, NSDI, EuroSys, CCS, NDSS, Security, INFOCOM, ICNP, JSAC, TON, TDSC, TIFS, TPDS, with one of them earned the __Best Paper Award Nomination at IEEE INFOCOM 2021__. My recent research interests including:
 * Programmable Network (e.g., SDN, NFV, P4, DPDK, eBPF);
 * High-Performance Networking (e.g., RDMA, SmartNIC, DPU);
-* Distributed systems for LLM (e.g., NCCL, LLM Training/Inference Systems);
+* Distributed systems for LLM (e.g., NCCL, LLM Training/Inference Systems and AI Infrastructure);
 * AI-driven network security and networked systems.
 
 
