@@ -329,8 +329,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 ## Students
 #### Current Member
 * Yuyan Zhao, Ph.D. student, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
-* Fangzheng Jiao, Pd.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
-* Jinyi Xia, Pd.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Fangzheng Jiao, Ph.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
+* Jinyi Xia, Ph.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Jue Zhang, Ph.D. student, 2025.9-Present, Beihang University
 * Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
