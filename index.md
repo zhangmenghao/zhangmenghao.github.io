@@ -44,6 +44,9 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
+39. Yihui Zhang, Tianyu Wo, Jinghao Wang, Xiaoyang Sun, __Menghao Zhang__, Cangzhou Yuan, Li Li, Chunming Hu, Albert Y. Zomaya, Renyu Yang.
+Laplace: Predictive Sandbox Orchestration for LLM Agents.
+In the 17th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Singapore, November 18-20, 2026 (*CCF-B, full paper acceptance ratio: 78/368=21.2%*)
 38. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
 Towards High-Throughput Collective Communication via Harnessing PCIe and Dedicated Interconnects.
 In the 2026 ACM SIGOPS Annual Technical Conference (**ATC**), Shatin, Hong Kong, China, November 15-18, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 135/973=13.9%, top conference in System*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
