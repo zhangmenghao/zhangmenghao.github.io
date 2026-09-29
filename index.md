@@ -333,11 +333,12 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 #### Current Member
 * Yuyan Zhao, Ph.D. student, 2023.9-Present, Beihang University, Co-supervised with Prof. Tianyu Wo
 * Fangzheng Jiao, Ph.D. student, 2024.9-Present, Beihang Univeristy, Co-supervised with Prof. Chunming Hu
-* Jinyi Xia, Ph.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Jue Zhang, Ph.D. student, 2025.9-Present, Beihang University
-* Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Jinyi Xia, Ph.D. student, 2025.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Shucan Yang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Feiyang Wang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Xiaolong Xiang, Ph.D. student, 2026.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
+* Jiawen Zhang, Ph.D. student, 2027.9-Present, Beihang University
 * Xiangxi Ma, Ph.D. student, 2027.9-Present, Beihang University, Co-supervised with Prof. Chunming Hu
 * Mengyu Yang, Master, 2024.9-Present, Beihang University
 * Yuezheng Liu, Master, 2024.9-Present, Beihang University, Co-supervised with Prof. Xudong Liu
@@ -347,6 +348,8 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * Mengyao Jian, Master, 2025.9-Present, Beihang University
 * Zihan Niu, Master, 2026.9-Present, Beihang University
 * Xuebin Song, Master, 2026.9-Present, Beihang University
+* Jingyuan Zhu, Master, 2027.9-Present, Beihang University
+* Zeguan Qiao, Master, 2027.9-Present, Beihang University
 * Yizhuo Liang, Master, 2027.9-Present, Beihang University
 * Ruyao Yu, Master, 2027.9-Present, Beihang University
 
