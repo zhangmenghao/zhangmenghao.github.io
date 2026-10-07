@@ -46,7 +46,7 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 #### Selected Publications
 40. __Menghao Zhang#__, Zihan Niu, Jue Zhang, Dongyang Wang, Renjie Xie, Yuan Yang, Mingwei Xu, Chunming Hu.
 Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks.
-In IEEE/ACM Transactions on Networking (TON), October 2026 (CCF-A, SCI Impact Factor 3.315, top journal in Computer Networks) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
+In IEEE/ACM Transactions on Networking (**TON**), October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
 39. Yihui Zhang, Tianyu Wo, Jinghao Wang, Xiaoyang Sun, __Menghao Zhang__, Cangzhou Yuan, Li Li, Chunming Hu, Albert Y. Zomaya, Renyu Yang.
 Laplace: Predictive Sandbox Orchestration for LLM Agents.
 In the 17th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Singapore, November 18-20, 2026 (*CCF-B, full paper acceptance ratio: 78/368=21.2%*)
