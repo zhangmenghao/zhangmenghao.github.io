@@ -55,10 +55,10 @@ In IEEE/ACM Transactions on Networking (**TON**), October 2026 (*<font color='re
 Laplace: Predictive Sandbox Orchestration for LLM Agents.
 In the 17th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Singapore, November 18-20, 2026 (*CCF-B, full paper acceptance ratio: 78/368=21.2%*)
 38. Yuezheng Liu, __Menghao Zhang#__, Xuebin Song, Juner Shen, Chunming Hu, Xudong Liu.
-Towards High-Throughput Collective Communication via Harnessing PCIe and Dedicated Interconnects.
+[Towards High-Throughput Collective Communication via Harnessing PCIe and Dedicated Interconnects](./papers/ATC2026-HyLink.pdf).
 In the 2026 ACM SIGOPS Annual Technical Conference (**ATC**), Shatin, Hong Kong, China, November 15-18, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 135/973=13.9%, top conference in System*) [[code](https://github.com/Networked-System-and-Security-Group/HyLink)]
 37. Haotian Deng, Jue Zhang, __Menghao Zhang#__, Yuan Yang, Xiao Li, Junhao Dong, Yi Liu, Mingwei Xu.
-CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths.
+[CAVER: Enhancing RDMA Load Balancing by Hunting Less-Congested Paths](./papers/ATC2026-CAVER.pdf).
 In the 2026 ACM SIGOPS Annual Technical Conference (**ATC**), Shatin, Hong Kong, China, November 15-18, 2026 (*<font color='red'>CCF-A</font>, full paper acceptance ratio: 135/973=13.9%, top conference in System*) [[code](https://github.com/Networked-System-and-Security-Group/CAVER)]
 36. Junchen Pan, Kunpeng He, Shengnan Liu, __Menghao Zhang__, Hu Xie, Lei Zhang, Yong Cui.
 [NetSynergy: Mitigating Application-layer DDoS via Adaptive Access-Backbone Collaboration](./papers/CCS2026-NetSynergy.pdf).
