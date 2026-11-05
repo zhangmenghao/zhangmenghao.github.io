@@ -44,13 +44,12 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
-41. Yuxuan Chen, __Menghao Zhang#__, Jingyuan Zhu, Yuan Yang, Xiao Li, Fangzheng Jiao, Shicheng Wang,
-Chunming Hu, Mingwei Xu.
+41. Yuxuan Chen, __Menghao Zhang#__, Jingyuan Zhu, Yuan Yang, Xiao Li, Fangzheng Jiao, Shicheng Wang, Chunming Hu, Mingwei Xu.
 Vedrfolnir: Diagnosing RDMA Network Performance Anomalies in Collective Communications.
 In IEEE/ACM Transactions on Networking (**TON**), October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir/tree/TON26)]
 40. __Menghao Zhang#__, Zihan Niu, Jue Zhang, Dongyang Wang, Renjie Xie, Yuan Yang, Mingwei Xu, Chunming Hu.
-Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks.
-In IEEE/ACM Transactions on Networking (**TON**), October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
+[Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/TON2026-Themis.pdf).
+In IEEE/ACM Transactions on Networking (**TON**), vol. 34, pp. 7848-7863, October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
 39. Yihui Zhang, Tianyu Wo, Jinghao Wang, Xiaoyang Sun, __Menghao Zhang__, Cangzhou Yuan, Li Li, Chunming Hu, Albert Y. Zomaya, Renyu Yang.
 Laplace: Predictive Sandbox Orchestration for LLM Agents.
 In the 17th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Singapore, November 18-20, 2026 (*CCF-B, full paper acceptance ratio: 78/368=21.2%*)
@@ -122,13 +121,13 @@ In the 15th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), R
 In the 32nd IEEE International Conference on Network Protocols (**ICNP**), Charleroi, Belgium, October 28-31, 2024 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 50/205=24.4%*) [[code](https://github.com/czt8888/Paraleon-ns3)]
 16. Renjie Xie, Jiahao Cao, Yuxi Zhu, Yixiang Zhang, Yi He, Hanyi Peng, Yixiao Wang, Mingwei Xu, Kun Sun, Enhuan Dong, Qi Li, __Menghao Zhang__, Jiang Li.
 [Cactus: Obfuscating Bidirectional Encrypted TCP Traffic at Client Side](./papers/TIFS2024-Cactus.pdf).
-In IEEE Transactions on Information Forensics and Security (**TIFS**), 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
+In IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 19, pp. 7659-7673, August 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*)
 15. Shicheng Wang, __Menghao Zhang#__, Yuying Du, Ziteng Chen, Zhiliang Wang, Mingwei Xu, Renjie Xie, Jiahai Yang. 
 [LoRDMA: A New Low-Rate DoS Attack in RDMA Networks](./papers/NDSS2024-LoRDMA.pdf). 
 In the 31st Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, USA, February 26-March 1, 2024 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/wangshicheng1225/LoRDMA)]
 14. __Menghao Zhang__, Guanyu Li, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu, Fenghua Li.
 [IMap: Toward a Fast, Scalable and Reconfigurable In-Network Scanner with Programmable Switches](./papers/TIFS2024-IMap.pdf).
-In IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 19, pp. 601-615, 2024 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*) [[code](https://github.com/IMapScanner/IMap)]
+In IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 19, pp. 601-615, October 2023 (*<font color='red'>CCF-A</font>, SCI Impact Factor 6.8, top journal in Network and Information Security*) [[code](https://github.com/IMapScanner/IMap)]
 13. Renjie Xie, Jiahao Cao, Enhuan Dong, Mingwei Xu, Kun Sun, Qi Li, Licheng Shen, __Menghao Zhang__. 
 [Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation](./papers/Security23-Rosetta.pdf).
 In the 32nd USENIX Security Symposium (**USENIX Security**), Anaheim, CA, USA, August 9-11, 2023 (*<font color='red'>CCF-A</font>, top conference in Security*) [[code](https://github.com/sunskyXX/Rosetta)]
