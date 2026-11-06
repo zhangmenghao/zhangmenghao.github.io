@@ -45,8 +45,8 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 (# indicates that I am the corresponding author)
 #### Selected Publications
 41. Yuxuan Chen, __Menghao Zhang#__, Jingyuan Zhu, Yuan Yang, Xiao Li, Fangzheng Jiao, Shicheng Wang, Chunming Hu, Mingwei Xu.
-Vedrfolnir: Diagnosing RDMA Network Performance Anomalies in Collective Communications.
-In IEEE/ACM Transactions on Networking (**TON**), October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir/tree/TON26)]
+[Vedrfolnir: Diagnosing RDMA Network Performance Anomalies in Collective Communications](./papers/TON2026-Vedrfolnir.pdf).
+In IEEE/ACM Transactions on Networking (**TON**), vol. 34, pp. 7981-7994, October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir/tree/TON26)]
 40. __Menghao Zhang#__, Zihan Niu, Jue Zhang, Dongyang Wang, Renjie Xie, Yuan Yang, Mingwei Xu, Chunming Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/TON2026-Themis.pdf).
 In IEEE/ACM Transactions on Networking (**TON**), vol. 34, pp. 7848-7863, October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
