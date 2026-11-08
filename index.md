@@ -169,6 +169,9 @@ In IEEE Journal on Selected Areas in Communications (**JSAC**), vol. 37, no. 3, 
 In the 21st International Symposium on Research in Attacks, Intrusions and Defenses (**RAID**), Heraklion, Crete, Greece, September 10-12, 2018 (*CCF-B, full paper acceptance ratio: 32/145=22.1%*)
 
 #### Others
+24. Fangzheng Jiao, __Menghao Zhang#__, Shicheng Wang, Yanmin Jia, Yan Zhang, Mingjun Zhang, Xiaohe Hu, Chunming Hu.
+[Cost-effective Large-scale LLM Training Cluster Construction (面向成本效益的超大规模训练集群建设)](./papers/面向成本效益的超大规模训练集群建设.pdf).
+In Computer Engineering & Science, Vol.48, No.10, pp. 1854-1872, October 2026 (*In Chinese*)
 23. Jingyuan Zhu, __Menghao Zhang#__, Yuxuan Chen.
 [Weaver: Diagnosing Extra Kernel and Synchronization Interference in GPU Workloads](./papers/SIGCOMM2026-Poster-Weaver.pdf).
 In **SIGCOMM** Posters and Demos, Denver, Colorado, USA, August 17-21, 2026 [[code](https://github.com/Networked-System-and-Security-Group/Weaver)]
