@@ -69,7 +69,8 @@ In the European Conference on Computer Systems (**EuroSys**), Rabat, Morocco, Ap
 [Collective Communication for Distributed LLM Systems: Planning, Runtime Adaptation, and Computation Coordination](./papers/IEEENetwork2026-Collective.pdf).
 In IEEE Network Magazine, 2026 (*SCI Impact Factor: 8.8*)
 33. Jue Zhang, __Menghao Zhang#__, Zihan Niu, Bo Peng, Shucan Yang, Xiaohe Hu.
-[GRC: Extending RDMA to Wide-Area Networks via Gateway-Mediated Rate Control](./papers/ICNP2026-GRC.pdf).
+GRC: Extending RDMA to Wide-Area Networks via Gateway-Mediated Rate Control.
+<!-- (./papers/ICNP2026-GRC.pdf). -->
 In the 34rd IEEE International Conference on Network Protocols (**ICNP**), Tempe, Arizona, USA, October 05-08, 2026 (*CCF-B/TH-CPL-A, full paper acceptance ratio: 67/277=24.2%*) [[code](https://github.com/Networked-System-and-Security-Group/GRC)]
 32. Dinghao Xue, Yanxiang Chen, Junhong Liu, Guangsen Ni, Yepeng Zhang, __Menghao Zhang__, Tianyu Wo, Zheng Zheng, Chunming Hu, Jin Ouyang, Renyu Yang.
 [Characterizing and Mitigating Productivity Loss in Large-Scale Model Training: An Empirical Study](./papers/ASE2026-ETPR.pdf).
@@ -326,6 +327,7 @@ In **SIGCOMM** Posters and Demos, Los Angeles, CA, USA, August 22–24, 2017 [[c
 * 中国计算机学会互联网专委会执行委员
 * 中国计算机学会网络与数据通信专委会执行委员
 * 中国计算机学会网络与系统安全专委会执行委员
+* 中国计算机学会分布式计算与系统专委会执行委员
 * 中国通信学会算力网络委员会委员
  
 
