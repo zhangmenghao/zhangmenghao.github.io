@@ -33,10 +33,11 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 
 
 ## News
+* 2026.11 课题组成员乔泽冠、焦方正、王昊涵获得2026年全国高校智能体网络创新挑战赛二等奖，并获得10000元奖励！
 * 2026.8 课题组成员向晓龙、杨树灿获得2026HCCL通信库创新大赛华北赛区三等奖，并获5000元奖励！
 * 2026.6 课题组成员张家文同学获得北航第三十六届“冯如杯”竞赛主赛道二等奖！
 * 2025.12 课题组成员牛梓涵同学获得九号公司奖学金一等奖，并获10000元奖励！
-* 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得第一届CCF智算网络挑战赛三等奖，并获10000元奖励！
+* 2025.9 课题组成员刘岳征、夏锦熠、黄佳讯同学获得CCF智算网络挑战赛三等奖，并获10000元奖励！
 * 2025.8 课题组成员牛梓涵、王春博、易家权、祝境远同学获得中国高校计算机大赛第十届网络技术挑战赛总决赛一等奖（全国唯二），并获得6000元奖励！
 * 2025.7 课题组成员王飞阳、宋学斌、彭启阳同学获得中国高校计算机大赛第十届网络技术挑战赛华北赛区二等奖！
 * 2025.6 课题组成员牛梓涵同学获得北航第三十五届“冯如杯”竞赛主赛道二等奖！
@@ -44,12 +45,15 @@ Group Github: [https://github.com/Networked-System-and-Security-Group](https://g
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=fv-p85gAAAAJ&hl=zh-CN))
 (# indicates that I am the corresponding author)
 #### Selected Publications
-41. Yuxuan Chen, __Menghao Zhang#__, Jingyuan Zhu, Yuan Yang, Xiao Li, Fangzheng Jiao, Shicheng Wang, Chunming Hu, Mingwei Xu.
+42. Yuxuan Chen, __Menghao Zhang#__, Jingyuan Zhu, Yuan Yang, Xiao Li, Fangzheng Jiao, Shicheng Wang, Chunming Hu, Mingwei Xu.
 [Vedrfolnir: Diagnosing RDMA Network Performance Anomalies in Collective Communications](./papers/TON2026-Vedrfolnir.pdf).
 In IEEE/ACM Transactions on Networking (**TON**), vol. 34, pp. 7981-7994, October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Vedrfolnir/tree/TON26)]
-40. __Menghao Zhang#__, Zihan Niu, Jue Zhang, Dongyang Wang, Renjie Xie, Yuan Yang, Mingwei Xu, Chunming Hu.
+41. __Menghao Zhang#__, Zihan Niu, Jue Zhang, Dongyang Wang, Renjie Xie, Yuan Yang, Mingwei Xu, Chunming Hu.
 [Themis: Addressing Congestion-Induced Unfairness in Long-Haul RDMA Networks](./papers/TON2026-Themis.pdf).
 In IEEE/ACM Transactions on Networking (**TON**), vol. 34, pp. 7848-7863, October 2026 (*<font color='red'>CCF-A</font>, SCI Impact Factor 3.315, top journal in Computer Networks*) [[code](https://github.com/Networked-System-and-Security-Group/Themis/tree/TON)]
+40. Mingjun Zhang, Yucheng Li, __Menghao Zhang#__, Shuyong Zhu, Ping Zhang, Xiaohe Hu, Jun Chen, Zhixin Wang, Xutong Wang, He Liu, Yanmin Jia, Shengrong Zhu, Peng Sun, Mingjie Zhang, Liming Liu, Jinlong Hou, Yuan Cheng, Yujun Zhang.
+[VenusRL: A Fully Disaggregated Agentic RL System with Priority Scheduling and Scalable Interaction](https://arxiv.org/pdf/2610.03286).
+arXiv preprint arXiv:2610.03286, October 2, 2026
 39. Yihui Zhang, Tianyu Wo, Jinghao Wang, Xiaoyang Sun, __Menghao Zhang__, Cangzhou Yuan, Li Li, Chunming Hu, Albert Y. Zomaya, Renyu Yang.
 Laplace: Predictive Sandbox Orchestration for LLM Agents.
 In the 17th edition of the annual ACM Symposium on Cloud Computing (**SoCC**), Singapore, November 18-20, 2026 (*CCF-B, full paper acceptance ratio: 78/368=21.2%*)
